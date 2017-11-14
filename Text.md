@@ -6,4 +6,4 @@
 
 ## 4. Применение к данным
 
-## 5. Discution
+## 5. Discussion
