@@ -191,12 +191,12 @@ Khorta	42.19329	46.35976	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцух�
 Tokh-Orda	42.11174	46.35982	Avar	Avar	Nakh-Daghestanian	yellow			
 Nadar	42.09736	46.36025	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцухский, анцросунхадинский	[Saidova, Magomedov 2008]
 Khidib	42.17812	46.36299	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцухский, ташский	[Saidova, Magomedov 2008]
-Busutli	42.24512	46.363326	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцузский, косовский	[Saidova, Magomedov 2008]
+Busutli	42.24512	46.363326	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцухский, косовский	[Saidova, Magomedov 2008]
 Kizhani	42.74031	46.364775	Avar	Avar	Nakh-Daghestanian	yellow			
 Tsoloda	42.63827	46.36626	Avar	Avar	Nakh-Daghestanian	yellow			
 Tilanib	42.310964	46.366528	Avar	Avar	Nakh-Daghestanian	yellow			
 Magitl'	42.248081	46.366738	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцухский, кособский	[Saidova, Magomedov 2008]
-Kosob	42.242893	46.368239	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцузский, кособский	[Saidova, Magomedov 2008]
+Kosob	42.242893	46.368239	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцухский, кособский	[Saidova, Magomedov 2008]
 Anada	42.17306	46.36917	Avar	Avar	Nakh-Daghestanian	yellow			
 Tlobzoda	42.17944	46.37111	Avar	Avar	Nakh-Daghestanian	yellow			
 Sabda	42.311355	46.371346	Avar	Avar	Nakh-Daghestanian	yellow			
@@ -329,9 +329,9 @@ Amishta	42.62967	46.552971	Avar	Avar	Nakh-Daghestanian	yellow
 Kharib	43.520028	46.5541444	Avar	Avar	Nakh-Daghestanian	yellow			
 Aleksandro-Nevskoe	43.92181	46.55817	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Aleksandro-Nevskoe	43.92181	46.55817	Nogai	Kipchak	Turkic	grey60			
-Khotoda	42.39393	46.559446	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский диалект	[Saidova, Magomedov 2008]
+Khotoda	42.39393	46.559446	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский	[Saidova, Magomedov 2008]
 Genta	42.37001	46.56099	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский	[Alekseev, Ataev 1997]
-Urada	42.3822	46.5617	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский диалект	[Saidova, Magomedov 2008]
+Urada	42.3822	46.5617	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский	[Saidova, Magomedov 2008]
 Chankayurt	43.56935	46.56515	Chechen	Nakh	Nakh-Daghestanian				
 Kolo	42.65769	46.56607	Avar	Avar	Nakh-Daghestanian	yellow			
 Kandauraul	43.3414	46.5664	Chechen	Nakh	Nakh-Daghestanian				
@@ -428,7 +428,7 @@ Khamakal	42.428109	46.674497	Avar	Avar	Nakh-Daghestanian	yellow	kaxi1241	ках�
 Krasnyy Voskhod	43.86232	46.67508	Avar	Avar	Nakh-Daghestanian	yellow			
 Adil'otar	43.4603	46.6761	Chechen	Nakh	Nakh-Daghestanian				
 Baitl'	42.546452	46.676472	Avar	Avar	Nakh-Daghestanian	yellow			
-Urukh-Sota	42.24222	46.67694	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский диалект	[Alekseev, Ataev 1997]
+Urukh-Sota	42.24222	46.67694	Avar	Avar	Nakh-Daghestanian	yellow	hidd1238	гидский	[Alekseev, Ataev 1997]
 Tsiyab-Tsilitli (Novo-Tsilitli)	43.48694	46.67833	Avar	Avar	Nakh-Daghestanian	yellow			
 Pervokizlyarskoe	43.88591	46.67872	Avar	Avar	Nakh-Daghestanian	yellow			
 Pervokizlyarskoe	43.88591	46.67872	Lak	Lak	Nakh-Daghestanian	violetred			
@@ -530,7 +530,7 @@ Novoe Kheleturi	43.47958	46.784633	Avar	Avar	Nakh-Daghestanian	yellow
 Arkhida (Asel'der-otar)	43.429	46.78533	Avar	Avar	Nakh-Daghestanian	yellow			
 Imeni Karla Marksa	43.897	46.78746	Avar	Avar	Nakh-Daghestanian	yellow			
 Untsukul'	42.7131	46.7875	Avar	Avar	Nakh-Daghestanian	yellow			
-Kutikh	42.12587	46.78902	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский 	[Saidova, Magomedov 2008]
+Kutikh	42.12587	46.78902	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский	[Saidova, Magomedov 2008]
 Gonoda	42.4697	46.7892	Avar	Avar	Nakh-Daghestanian	yellow			
 Kakh	42.557664	46.790848	Avar	Avar	Nakh-Daghestanian	yellow			
 Moschob	42.21389	46.79167	Avar	Avar	Nakh-Daghestanian	yellow			
@@ -626,7 +626,7 @@ Tagada	42.497573	46.868389	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцу�
 Gotsob	42.58963	46.86901	Avar	Avar	Nakh-Daghestanian	yellow			
 Chitab	42.10412	46.86914	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский, риссибский	[Saidova, Magomedov 2008]
 Alchunib	42.05196	46.86943	Archi	Lezgic	Nakh-Daghestanian	limegreen			
-Shamil'kala	42.690407	46.874769	Avar	Avar	Nakh-Daghestanian	yellow	batl1238	балтухский	[Saidova, Magomedov 2008]
+Shamil'kala	42.690407	46.874769	Avar	Avar	Nakh-Daghestanian	yellow	batl1238	батлухский	[Saidova, Magomedov 2008]
 Kakhikal	42.499065	46.874809	Avar	Avar	Nakh-Daghestanian	yellow			
 Chvadab	42.13028	46.87639	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский, риссибский	[Saidova, Magomedov 2008]
 Anduz	43.52361	46.87639	Karata	Andic	Nakh-Daghestanian	tomato3			
@@ -636,7 +636,7 @@ Kizilyurt	43.20182	46.87756	Lak	Lak	Nakh-Daghestanian	violetred
 Krasnoe (Selo)	44.100232	46.877563	Avar	Avar	Nakh-Daghestanian	yellow			
 Dusrakh	42.1275	46.8792	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский, риссибский	[Saidova, Magomedov 2008]
 Tushilovka	44.3092	46.8814	Avar	Avar	Nakh-Daghestanian	yellow			
-Baginub	42.1743	46.88159	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский диалект, мукратльский	[Alekseev, Ataev 1997]
+Baginub	42.1743	46.88159	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский, мукратльский	[Alekseev, Ataev 1997]
 Gotsatl' Bol'shoy	42.51862	46.88262	Avar	Avar	Nakh-Daghestanian	yellow			
 Mulla-Ali	43.86792	46.88344	Avar	Avar	Nakh-Daghestanian	yellow			
 Unkida	42.328698	46.885731	Avar	Avar	Nakh-Daghestanian	yellow	anda1281	андальский, ругуджинский	[Saidova, Magomedov 2008]
@@ -652,7 +652,7 @@ Komsomol'skoe	43.1956	46.8964	Avar	Avar	Nakh-Daghestanian	yellow
 Muzhukay	43.6283	46.9013	Kumyk	Kipchak	Turkic	grey60			
 Muzhukay	43.6283	46.9013	Nogai	Kipchak	Turkic	grey60			
 Gemetyube	43.5747	46.9014	Nogai	Kipchak	Turkic	grey60			
-Kuchrab	42.17506	46.90244	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский диалект, мукратльский	[Alekseev, Ataev 1997]
+Kuchrab	42.17506	46.90244	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский, мукратльский	[Alekseev, Ataev 1997]
 Ankhvala	43.65583	46.90389	Avar	Avar	Nakh-Daghestanian	yellow			
 Chanab	42.125345	46.90434	Avar	Avar	Nakh-Daghestanian	yellow	kara1473	карахский, риссибский	[Saidova, Magomedov 2008]
 Verkhniy Karanay	42.8281	46.9072	Avar	Avar	Nakh-Daghestanian	yellow			

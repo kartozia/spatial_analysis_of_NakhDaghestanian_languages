@@ -15,4 +15,4 @@ map.feature(languages = df$Language,
             features = df$dialect_group,
             label = df$dialect,
             popup = df$EngNames,
-            legend = FALSE)
+            legend = TRUE)
