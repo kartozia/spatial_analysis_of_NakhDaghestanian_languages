@@ -1,11 +1,10 @@
 library(tidyverse)
 library(lingtypology)
-setwd("/home/agricolamz/for_work/HSE/students/2017_b4_Kartozia/data/")
-df <- read_tsv("allvillages_v2.tsv")
+df <- read_tsv("https://raw.githubusercontent.com/kartozia/spatial_analysis_of_NakhDaghestanian_languages/master/data/allvillages_v2.tsv")
 
-df %>% 
-  filter(dialect != "") %>% 
-  rowwise() %>% 
+df %>%
+  filter(dialect != "") %>%
+  rowwise() %>%
   mutate(dialect_group = first(unlist(str_split(dialect, pattern = ","))))->
   df_filtered
 
