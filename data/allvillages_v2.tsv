@@ -116,7 +116,7 @@ Arakani	42.610078	46.991711	Avar	Avar	Nakh-Daghestanian	yellow
 Arani	42.5556	46.7225	Avar	Avar	Nakh-Daghestanian	yellow			
 Argvani	42.8128	46.5792	Avar	Avar	Nakh-Daghestanian	yellow			
 Arkas	42.65194	47.13833	Avar	Avar	Nakh-Daghestanian	yellow	anda1281	андальский, салтинский	[Alekseev, Ataev 1997: 22-26]
-Arkhida (Asel'der-otar)	43429	46.78533	Avar	Avar	Nakh-Daghestanian	yellow			
+Arkhida (Asel'der-otar)	43.429	46.78533	Avar	Avar	Nakh-Daghestanian	yellow			
 Arkida	43.20583	47.0625	Avar	Avar	Nakh-Daghestanian	yellow			
 Artlukh	42.8631	46.6683	Avar	Avar	Nakh-Daghestanian	yellow			
 Arykhkent	42.64472	47.19165	Avar	Avar	Nakh-Daghestanian	yellow			
@@ -229,7 +229,7 @@ Ichichali	42.732617	46.405263	Avar	Avar	Nakh-Daghestanian	yellow
 Igali	42.7181	46.5811	Avar	Avar	Nakh-Daghestanian	yellow			
 Ikha	42.256944	45.820075	Avar	Avar	Nakh-Daghestanian	yellow			
 Imanaliroso	42.91429	46.76761	Avar	Avar	Nakh-Daghestanian	yellow			
-Imeni Karla Marksa	43897	46.78746	Avar	Avar	Nakh-Daghestanian	yellow			
+Imeni Karla Marksa	43.897	46.78746	Avar	Avar	Nakh-Daghestanian	yellow			
 Imeni Kirova	43.86396	46.70564	Avar	Avar	Nakh-Daghestanian	yellow			
 Imeni Shaumyana	43.87796	46.68821	Avar	Avar	Nakh-Daghestanian	yellow			
 Imeni Zhdanova	43.85694	46.69528	Avar	Avar	Nakh-Daghestanian	yellow			
@@ -453,7 +453,7 @@ Sekh	42.416094	46.826447	Avar	Avar	Nakh-Daghestanian	yellow	anda1281	андал�
 Semender	42.98833	47.40361	Avar	Avar	Nakh-Daghestanian	yellow			
 Sentukh	43.43724	46.89029	Avar	Avar	Nakh-Daghestanian	yellow			
 Shabdukh	42.75612	46.42139	Avar	Avar	Nakh-Daghestanian	yellow			
-Shagada	43479	46.72585	Avar	Avar	Nakh-Daghestanian	yellow			
+Shagada	43.479	46.72585	Avar	Avar	Nakh-Daghestanian	yellow			
 Shamil'kala	42.690407	46.874769	Avar	Avar	Nakh-Daghestanian	yellow	batl1238	батлухский	[Saidova 2008: 23-28]
 Shamil'kala	42.690407	46.874769	Avar	Avar	Nakh-Daghestanian	yellow	batl1238	батлухский	[Saidova 2008: 23-28]
 Shamkhal	43.056632	47.344526	Avar	Avar	Nakh-Daghestanian	yellow			
@@ -992,7 +992,7 @@ Utamysh	42.4047	47.7492	Kumyk	Kipchak	Turkic	grey60
 Uy-Salgan	44.21889	45.15639	Nogai	Kipchak	Turkic	grey60			
 Verkhnee Kazanische	42.7306	47.1381	Kumyk	Kipchak	Turkic	grey60			
 Verkhnie Ishkarty	42.84907	46.95309	Kumyk	Kipchak	Turkic	grey60			
-Vyshetalovskiy	44035	46.72333	Nogai	Kipchak	Turkic	grey60			
+Vyshetalovskiy	44.035	46.72333	Nogai	Kipchak	Turkic	grey60			
 Yangikent	42.2042	47.8292	Kumyk	Kipchak	Turkic	grey60			
 Yangylbay	43.63059	46.93654	Nogai	Kipchak	Turkic	grey30			
 Arakul	41.77377	47.21238	Lak	Lak	Nakh-Daghestanian	violetred	lakk1252	аральский	[Khaidakov 1966: 13]
@@ -1102,7 +1102,7 @@ Amsar	41.60348	47.33116	Rutul	Lezgic	Nakh-Daghestanian	greenyellow	rutu1240	му
 Amsar	41.60348	47.33116	Rutul	Lezgic	Nakh-Daghestanian	greenyellow			
 Arablinskoe	41.9675	48.3303	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Arablinskoe	41.9675	48.3303	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
-Arablyar	41935	48.38306	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
+Arablyar	41.935	48.38306	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Arak	41.96112	47.98984	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Magometov 1965: 24-26]
 Arak	41.96112	47.98984	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
 Aran	41.67389	47.24639	Rutul	Lezgic	Nakh-Daghestanian	greenyellow			
@@ -1667,7 +1667,7 @@ Vyshetalovka	44.042518	46.725504	Tsez	Tsezic	Nakh-Daghestanian	brown1	dido1241	�
 Zekhida	42.19594	45.94664	Tsez	Tsezic	Nakh-Daghestanian	brown1			
 Aglobi	41.90152	48.35017	North Azerbaijani	West Oghuz	Turkic	grey60			
 Arablinskoe	41.9675	48.3303	North Azerbaijani	West Oghuz	Turkic	grey60			
-Arablyar	41935	48.38306	North Azerbaijani	West Oghuz	Turkic	grey60			
+Arablyar	41.935	48.38306	North Azerbaijani	West Oghuz	Turkic	grey60			
 Belidzhi	41.870833	48.388611	North Azerbaijani	West Oghuz	Turkic	grey60			
 Berikey	42.2228	48.0611	North Azerbaijani	West Oghuz	Turkic	grey60			
 Bil'gadi	42.08581	48.13462	North Azerbaijani	West Oghuz	Turkic	grey60			
@@ -1692,7 +1692,7 @@ Nizhniy Dzhalgan	41.99007	48.31898	North Azerbaijani	West Oghuz	Turkic	grey60
 Nizhniy Katrukh	41.742979	47.203482	North Azerbaijani	West Oghuz	Turkic	grey60			
 Nyugdi	41.85872	48.43455	North Azerbaijani	West Oghuz	Turkic	grey60			
 Padar	42.19939	48.05179	North Azerbaijani	West Oghuz	Turkic	grey60			
-Pendzhi (Penzhik)	41966	48.05	North Azerbaijani	West Oghuz	Turkic	grey60			
+Pendzhi (Penzhik)	41.966	48.05	North Azerbaijani	West Oghuz	Turkic	grey60			
 Persidskoe	43.884078	46.894044	North Azerbaijani	West Oghuz	Turkic	grey60			
 Rubas	41.895476	48.329618	North Azerbaijani	West Oghuz	Turkic	grey60			
 Rukel'	41.9881	48.2253	North Azerbaijani	West Oghuz	Turkic	grey60			
