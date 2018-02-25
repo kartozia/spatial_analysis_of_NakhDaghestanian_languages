@@ -20,7 +20,7 @@ Gachitli	42.551361	46.088803	Chamalal	Andic	Nakh-Daghestanian	chocolate	cham1309
 Gadaychi	42.470059	46.070951	Tindi	Andic	Nakh-Daghestanian	goldenrod3	tind1238		[Magomedova 2003: 15]
 Gadiri	42.566265	46.065746	Chamalal	Andic	Nakh-Daghestanian	chocolate	cham1309		[Bokarev 1949: 5-10]
 Gagatli	42.800361	46.292645	Andi	Andic	Nakh-Daghestanian	orange3	gaga1250	гагатлинский	[Sulejmanov 1957: 7]
-Gakko	42.47024	45882	Chamalal	Andic	Nakh-Daghestanian	chocolate			
+Gakko	42.47024	45.882	Chamalal	Andic	Nakh-Daghestanian	chocolate			
 Gigatl'	42.58136	46.0964	Chamalal	Andic	Nakh-Daghestanian	chocolate	cham1309		[Bokarev 1949: 5-10]
 Gigatli-Urukh	42.590934	46.142589	Chamalal	Andic	Nakh-Daghestanian	chocolate			
 Gigikh	42.532529	46.101767	Chamalal	Andic	Nakh-Daghestanian	chocolate			
@@ -1154,7 +1154,7 @@ Chakhchakh-Kazmalyar	41.78651	48.50046	Lezgian	Lezgic	Nakh-Daghestanian	#74C476
 Chere	41.80685	48.0425	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Ihilov 1967: 9-15]
 Chere	41.80685	48.0425	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
 Chernyaevka	43.9458	47.0342	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
-Chilikar	41.74196	48065	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
+Chilikar	41.74196	48.065	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Chinar	42.1075	48.1439	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
 Chukhverkent	41.77797	48.37314	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Chulat	41.880921	48.154399	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Magometov 1965: 24-26]
@@ -1173,7 +1173,7 @@ Duldug	41.76833	47.67438	Aghul	Lezgic	Nakh-Daghestanian	green	agul1244		[Shaumia
 Duldug	41.76833	47.67438	Aghul	Lezgic	Nakh-Daghestanian	green			
 Dyubek	42.0208	47.969528	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Ihilov 1967: 9-15]
 Dyubek	42.0208	47.969528	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
-Dyuzler	41.93583	48265	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
+Dyuzler	41.93583	48.265	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
 Dzhaba	41.424175	47.775397	Lezgian	Lezgic	Nakh-Daghestanian	#74C476	akht1238	ахтынский	[Ihilov 1967: 9-15]
 Dzhaba	41.424175	47.775397	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Dzhek	41.19694	48.24167	Kryz	Lezgic	Nakh-Daghestanian	lightgreen	dzhe1238	джекский	[Ihilov 1967: 9-15]
@@ -1270,7 +1270,7 @@ Kasumkent	41.6789	48.1394	Lezgian	Lezgic	Nakh-Daghestanian	#74C476
 Kazankulak	43.52334	47.13435	Rutul	Lezgic	Nakh-Daghestanian	greenyellow			
 Kchun-Kazmalyar	41.76261	48.48966	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Kerimkhanar	41.38344	47.90279	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
-Keserib	42.0647	46888	Archi	Lezgic	Nakh-Daghestanian	limegreen			
+Keserib	42.0647	46.888	Archi	Lezgic	Nakh-Daghestanian	limegreen			
 Khalag	41.90551	47.88935	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Magometov 1965: 24-26]
 Khalag	41.90551	47.88935	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
 Khanag	41.97444	47.90333	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Magometov 1965: 24-26]
@@ -1299,7 +1299,7 @@ Khnov	41.378607	47.443605	Rutul	Lezgic	Nakh-Daghestanian	greenyellow
 Khnyakh	41.648441	47.153831	Tsakhur	Lezgic	Nakh-Daghestanian	seagreen			
 Khnyukh	41.58289	47.43299	Rutul	Lezgic	Nakh-Daghestanian	greenyellow	rutu1240	мухадский	[Ibragimov 1978: 13-15]
 Khnyukh	41.58289	47.43299	Rutul	Lezgic	Nakh-Daghestanian	greenyellow			
-Khodzha-Kazmalyar	41.72534	48438	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
+Khodzha-Kazmalyar	41.72534	48.438	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			
 Khoredzh	41.74914	47.8667	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45	taba1259		[Magometov 1965: 24-26]
 Khoredzh	41.74914	47.8667	Tabasaran	Lezgic	Nakh-Daghestanian	#238B45			
 Khorel'	41.53763	48.20011	Lezgian	Lezgic	Nakh-Daghestanian	#74C476			

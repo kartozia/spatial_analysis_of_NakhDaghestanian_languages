@@ -14,5 +14,10 @@ map.feature(languages = df_filtered$Language,
             features = df_filtered$dialect_group,
             label = paste(df_filtered$Language, df_filtered$dialect),
             popup = df_filtered$EngNames,
-            #legend = FALSE,
-            isogloss = df_filtered$dialect_group)
+            legend = FALSE)
+            #isogloss = df_filtered$dialect_group)
+
+
+map.feature(languages = df$Language,
+            latitude = df$Lat,
+            longitude = df$Lon)
