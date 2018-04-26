@@ -1,0 +1,1587 @@
+Language;class;sg;pl;S_label ;label ;semantics;source;source_bibtex;comments
+Aghul;NA;NA;NA;NA;NA;NA;[Magometov 1970];"@book{129992,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr Amarovic},
+  pages                 = {241},
+  publisher             = {Izdatel'stvo ""Mecniereba""},
+  title                 = {Agul'skij jazyk: (issledovanie i teksty)},
+  year                  = {1970}
+  }";
+Akvakh;1;w/o;b/m;I;M;male;[Magomedbekova 1967: 32-35];"@book{301097,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  pages      = {255},
+  publisher  = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title      = {Axvaxskij Jazyk},
+  year       = {1967}
+  }";
+Akvakh;2;j/i;b/m;II;F;female;[Magomedbekova 1967: 32-35];"@book{301097,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  pages      = {255},
+  publisher  = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title      = {Axvaxskij Jazyk},
+  year       = {1967}
+  }";
+Akvakh;3;b/m;r/n;III;N;nonhuman;[Magomedbekova 1967: 32-35];"@book{301097,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  pages      = {255},
+  publisher  = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title      = {Axvaxskij Jazyk},
+  year       = {1967}
+  }";
+Andi Gagatli;1;w;w;1;M;male;[Salimov 2010: 47-62];"@book{551891,
+  address          = {Maxačkala},
+  author           = {Salimov, X. S.},
+  pages            = {421},
+  publisher        = {IYALI},
+  title            = {Gagatlinskij Govor Andijskogo Jazyka},
+  year             = {2010}
+  }";
+Andi Gagatli;2;j;j;2;;female, inanim;[Salimov 2010: 47-62];"@book{551891,
+  address          = {Maxačkala},
+  author           = {Salimov, X. S.},
+  pages            = {421},
+  publisher        = {IYALI},
+  title            = {Gagatlinskij Govor Andijskogo Jazyka},
+  year             = {2010}
+  }";
+Andi Gagatli;3;b;j;3;;anim;[Salimov 2010: 47-62];"@book{551891,
+  address          = {Maxačkala},
+  author           = {Salimov, X. S.},
+  pages            = {421},
+  publisher        = {IYALI},
+  title            = {Gagatlinskij Govor Andijskogo Jazyka},
+  year             = {2010}
+  }";
+Andi Gagatli;4;b;b;4;;inanim;[Salimov 2010: 47-62];"@book{551891,
+  address          = {Maxačkala},
+  author           = {Salimov, X. S.},
+  pages            = {421},
+  publisher        = {IYALI},
+  title            = {Gagatlinskij Govor Andijskogo Jazyka},
+  year             = {2010}
+  }"; 
+Andi Gagatli;5;r;r;5;;inanim;[Salimov 2010: 47-62];"@book{551891,
+  address          = {Maxačkala},
+  author           = {Salimov, X. S.},
+  pages            = {421},
+  publisher        = {IYALI},
+  title            = {Gagatlinskij Govor Andijskogo Jazyka},
+  year             = {2010}
+  }";
+Andi Rikvani;1;w;w;I;M;male;[Sulejmanov 1957: 131-162];"  @phdthesis{Sulejmanov1957,
+  address               = {Moskva},
+  author                = {Sulejmanov, Ya.G.},
+  publisher             = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note                  = {po dannym s. Rikvani},
+  title                 = {Grammaticheskij očerk andijskogo yazyka},
+  year                  = {1957}
+  }";
+Andi Rikvani;2;j;j;II;F;female;[Sulejmanov 1957: 131-162];"  @phdthesis{Sulejmanov1957,
+  address               = {Moskva},
+  author                = {Sulejmanov, Ya.G.},
+  publisher             = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note                  = {po dannym s. Rikvani},
+  title                 = {Grammaticheskij očerk andijskogo yazyka},
+  year                  = {1957}
+  }";
+Andi Rikvani;3;b;b;III;;inanim;[Sulejmanov 1957: 131-162];"  @phdthesis{Sulejmanov1957,
+  address               = {Moskva},
+  author                = {Sulejmanov, Ya.G.},
+  publisher             = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note                  = {po dannym s. Rikvani},
+  title                 = {Grammaticheskij očerk andijskogo yazyka},
+  year                  = {1957}
+  }";
+Andi Rikvani;4;b;j;IV;;anim;[Sulejmanov 1957: 131-162];"  @phdthesis{Sulejmanov1957,
+  address               = {Moskva},
+  author                = {Sulejmanov, Ya.G.},
+  publisher             = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note                  = {po dannym s. Rikvani},
+  title                 = {Grammaticheskij očerk andijskogo yazyka},
+  year                  = {1957}
+  }";
+Andi Rikvani;5;r;r;V;;inanim;[Sulejmanov 1957: 131-162];"  @phdthesis{Sulejmanov1957,
+  address               = {Moskva},
+  author                = {Sulejmanov, Ya.G.},
+  publisher             = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note                  = {po dannym s. Rikvani},
+  title                 = {Grammaticheskij očerk andijskogo yazyka},
+  year                  = {1957}
+  }";
+Andi Rikvani;6;r;j;VI;;harmful insects;[Sulejmanov 1957: 131-162];"  @phdthesis{Sulejmanov1957,
+  address               = {Moskva},
+  author                = {Sulejmanov, Ya.G.},
+  publisher             = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note                  = {po dannym s. Rikvani},
+  title                 = {Grammaticheskij očerk andijskogo yazyka},
+  year                  = {1957}
+  }";
+Lower Andi;1;w;w;I;M;male;[Alekseev 1998: 228];"  @incollection{andi1998,
+  address    = {Moskva},
+  author     = {Alekseev, M. E.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {221-228},
+  publisher  = {Academia},
+  title      = {Andijskij Jazyk},
+  year       = {1998}
+  } ";
+Lower Andi;2;j;j;II;F;female;[Alekseev 1998: 228];"  @incollection{andi1998,
+  address    = {Moskva},
+  author     = {Alekseev, M. E.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {221-228},
+  publisher  = {Academia},
+  title      = {Andijskij Jazyk},
+  year       = {1998}
+  } ";нижнеандийские = мунибский + кванхидатльский
+Lower Andi;3;b;b;III;N;nonhuman;[Alekseev 1998: 228];"  @incollection{andi1998,
+  address    = {Moskva},
+  author     = {Alekseev, M. E.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {221-228},
+  publisher  = {Academia},
+  title      = {Andijskij Jazyk},
+  year       = {1998}
+  } ";
+Muni;1;j;j;I;H;human;[Alekseev 1998: 228];"  @incollection{andi1998,
+  address    = {Moskva},
+  author     = {Alekseev, M. E.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {221-228},
+  publisher  = {Academia},
+  title      = {Andijskij Jazyk},
+  year       = {1998}
+  } ";кавказские языки 1998: 228
+Muni;2;b;b;II;N;nonhuman;[Alekseev 1998: 228];"  @incollection{andi1998,
+  address    = {Moskva},
+  author     = {Alekseev, M. E.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {221-228},
+  publisher  = {Academia},
+  title      = {Andijskij Jazyk},
+  year       = {1998}
+  } ";
+Archi;1;w;b/Ø;I;M;male;[Kibrik 1994: 307-308];"@incollection{38307,
+  address               = {Delmar, NY},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {297-365},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Archi},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Archi;2;d/r;b/Ø;II;F;female;[Kibrik 1994: 307-308];"@incollection{38307,
+  address               = {Delmar, NY},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {297-365},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Archi},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Archi;3;b;Ø/b;III;;nonhuman;[Kibrik 1994: 307-308];"@incollection{38307,
+  address               = {Delmar, NY},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {297-365},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Archi},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Archi;4;Ø/t’/t;Ø/b;IV;;young animals;[Kibrik 1994: 307-308];"@incollection{38307,
+  address               = {Delmar, NY},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {297-365},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Archi},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Avar;1;w;r/l;I;M;male;[Saidova 2007: 46-47];"@book{saidova2007,
+  address = {Maxackala},
+  title={Zakatal'skij dialekt avarskogo yazyka},
+  author={Saidova, Patimat Abdulaevna},
+  year={2007},
+  publisher={Institut YALI imeni G.Tsadasy Dagestanskogo nauchnogo tsentra RAN}
+}";
+Avar;2;j;r/l;II;F;female;[Saidova 2007: 46-47];"@book{saidova2007,
+  address = {Maxackala},
+  title={Zakatal'skij dialekt avarskogo yazyka},
+  author={Saidova, Patimat Abdulaevna},
+  year={2007},
+  publisher={Institut YALI imeni G.Tsadasy Dagestanskogo nauchnogo tsentra RAN}
+}";
+Avar;3;b;r/l;III;N;nonhuman;[Saidova 2007: 46-47];"@book{saidova2007,
+  address = {Maxackala},
+  title={Zakatal'skij dialekt avarskogo yazyka},
+  author={Saidova, Patimat Abdulaevna},
+  year={2007},
+  publisher={Institut YALI imeni G.Tsadasy Dagestanskogo nauchnogo tsentra RAN}
+}";
+Avar Hunzan;NA;NA;NA;NA;NA;NA;[Alekseev 1997: 23];"@book{78556,
+  address    = {Moskva},
+  author     = {Mixail Alekseev and Boris Ataev},
+  pages      = {138},
+  publisher  = {Izadatel'stvo Akademia},
+  series     = {Yazyki Narodov Rossii},
+  title      = {Avarskij Yazyk},
+  year       = {1997}
+  }";
+Bagvalal;1;w;b/r/ba;M;M;male;[Kibrik 2001:64-66];"  @book{470831,
+  address               = {Moskva},
+  author                = {Kibrik, A. E.},
+  editor                = {Kibrik, Aleksandr E.},
+  note                  = {Includes bibliographical references (p. [883]-892) and index},
+  pages                 = {929},
+  publisher             = {IMLI RAN, ""Nasledie""},
+  title                 = {Bagvalinskij jazyk: grammatika, teksty, slovari},
+  year                  = {2001}
+  }";
+Bagvalal;2;j;b/r/ba;F;F;female;[Kibrik 2001:64-66];"  @book{470831,
+  address               = {Moskva},
+  author                = {Kibrik, A. E.},
+  editor                = {Kibrik, Aleksandr E.},
+  note                  = {Includes bibliographical references (p. [883]-892) and index},
+  pages                 = {929},
+  publisher             = {IMLI RAN, ""Nasledie""},
+  title                 = {Bagvalinskij jazyk: grammatika, teksty, slovari},
+  year                  = {2001}
+  }";
+Bagvalal;3;b;r;N;N;nonhuman;[Kibrik 2001:64-66];"  @book{470831,
+  address               = {Moskva},
+  author                = {Kibrik, A. E.},
+  editor                = {Kibrik, Aleksandr E.},
+  note                  = {Includes bibliographical references (p. [883]-892) and index},
+  pages                 = {929},
+  publisher             = {IMLI RAN, ""Nasledie""},
+  title                 = {Bagvalinskij jazyk: grammatika, teksty, slovari},
+  year                  = {2001}
+  }";
+Batsbi;1;v;b;M;M;male;[Holisky, Gagua 1994: 158-159];" @incollection{145969,
+  address    = {Delmar, NY},
+  author     = {Holisky, Dee Ann and Rusudan Gagua},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {147-212},
+  publisher  = {Delmar, New York: Caravan Books},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Tsova-Tush (Batsbi)},
+  volume     = {4},
+  year       = {1994}
+  } ";
+Batsbi;2;j;d;F;F;female;[Holisky, Gagua 1994: 158-159];" @incollection{145969,
+  address    = {Delmar, NY},
+  author     = {Holisky, Dee Ann and Rusudan Gagua},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {147-212},
+  publisher  = {Delmar, New York: Caravan Books},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Tsova-Tush (Batsbi)},
+  volume     = {4},
+  year       = {1994}
+  } ";
+Batsbi;3;d;d;D;;nonhuman;[Holisky, Gagua 1994: 158-159];" @incollection{145969,
+  address    = {Delmar, NY},
+  author     = {Holisky, Dee Ann and Rusudan Gagua},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {147-212},
+  publisher  = {Delmar, New York: Caravan Books},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Tsova-Tush (Batsbi)},
+  volume     = {4},
+  year       = {1994}
+  } ";
+Batsbi;4;j;j;J;;nonhuman;[Holisky, Gagua 1994: 158-159];" @incollection{145969,
+  address    = {Delmar, NY},
+  author     = {Holisky, Dee Ann and Rusudan Gagua},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {147-212},
+  publisher  = {Delmar, New York: Caravan Books},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Tsova-Tush (Batsbi)},
+  volume     = {4},
+  year       = {1994}
+  } ";
+Batsbi;5;b;d;Bd;;nonhuman;[Holisky, Gagua 1994: 158-159];" @incollection{145969,
+  address    = {Delmar, NY},
+  author     = {Holisky, Dee Ann and Rusudan Gagua},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {147-212},
+  publisher  = {Delmar, New York: Caravan Books},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Tsova-Tush (Batsbi)},
+  volume     = {4},
+  year       = {1994}
+  } ";
+Bezhta;1;Ø;b;I;M;male;[Madieva 1965: 50-57];"@book{313448,
+  address    = {Maxačkala},
+  author     = {Madieva, G.I.},
+  pages      = {208},
+  publisher  = {Dagestanskij gosudarstvennyj universitet im. V.I. Lenina, Katedra dagestanskogo i obščego jazykoznanija},
+  title      = {Grammatičeskij očerk bežtinskogo jazyka: po dannym govora s Bežta},
+  year       = {1965}
+  }";
+Bezhta;2;j;b;II;F;female;[Madieva 1965: 50-57];"@book{313448,
+  address    = {Maxačkala},
+  author     = {Madieva, G.I.},
+  pages      = {208},
+  publisher  = {Dagestanskij gosudarstvennyj universitet im. V.I. Lenina, Katedra dagestanskogo i obščego jazykoznanija},
+  title      = {Grammatičeskij očerk bežtinskogo jazyka: po dannym govora s Bežta},
+  year       = {1965}
+  }";
+Bezhta;3;b;j;III;;nonhuman;[Madieva 1965: 50-57];"@book{313448,
+  address    = {Maxačkala},
+  author     = {Madieva, G.I.},
+  pages      = {208},
+  publisher  = {Dagestanskij gosudarstvennyj universitet im. V.I. Lenina, Katedra dagestanskogo i obščego jazykoznanija},
+  title      = {Grammatičeskij očerk bežtinskogo jazyka: po dannym govora s Bežta},
+  year       = {1965}
+  }";
+Bezhta;4;j;j;IV;;inanim;[Madieva 1965: 50-57];"@book{313448,
+  address    = {Maxačkala},
+  author     = {Madieva, G.I.},
+  pages      = {208},
+  publisher  = {Dagestanskij gosudarstvennyj universitet im. V.I. Lenina, Katedra dagestanskogo i obščego jazykoznanija},
+  title      = {Grammatičeskij očerk bežtinskogo jazyka: po dannym govora s Bežta},
+  year       = {1965}
+  }";
+Bezhta Tliadal;1;Ø;b;I;M;male;[Testelets, Khalilov 1998: 52];"@incollection{bezhta1998,
+  address    = {Moskva},
+  author     = {Testelets, Ya.G.; Khalilov M.Sh.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {44-53},
+  publisher  = {Academia},
+  title      = {Bezhtinskij Jazyk},
+  year       = {1998}
+  } ";
+Bezhta Tliadal;2;j;b;II;F;female;[Testelets, Khalilov 1998: 52];"@incollection{bezhta1998,
+  address    = {Moskva},
+  author     = {Testelets, Ya.G.; Khalilov M.Sh.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {44-53},
+  publisher  = {Academia},
+  title      = {Bezhtinskij Jazyk},
+  year       = {1998}
+  } ";
+Bezhta Tliadal;3;b;j;III;;nonhuman;[Testelets, Khalilov 1998: 52];"@incollection{bezhta1998,
+  address    = {Moskva},
+  author     = {Testelets, Ya.G.; Khalilov M.Sh.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {44-53},
+  publisher  = {Academia},
+  title      = {Bezhtinskij Jazyk},
+  year       = {1998}
+  } ";
+Bezhta Tliadal;4;j;j;IV;;inanim;[Testelets, Khalilov 1998: 52];"@incollection{bezhta1998,
+  address    = {Moskva},
+  author     = {Testelets, Ya.G.; Khalilov M.Sh.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {44-53},
+  publisher  = {Academia},
+  title      = {Bezhtinskij Jazyk},
+  year       = {1998}
+  } ";
+Bezhta Tliadal;5;r;r;V;;inanim;[Testelets, Khalilov 1998: 52];"@incollection{bezhta1998,
+  address    = {Moskva},
+  author     = {Testelets, Ya.G.; Khalilov M.Sh.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {44-53},
+  publisher  = {Academia},
+  title      = {Bezhtinskij Jazyk},
+  year       = {1998}
+  } ";
+Botlikh;1;w;r/l;I;M;male;"[Gudava 1962: 29-49; 253-254]";" @book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }";
+Botlikh;2;j;r/l;II;F;female;"[Gudava 1962: 29-49; 253-254]";" @book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }";
+Botlikh;3;b;b;III;N;nonhuman;"[Gudava 1962: 29-49; 253-254]";" @book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }";
+Budukh;1;r/j/l/Ø;b;I;M;male;[Talibov 2007: 52-63];"@book{313088,
+  address    = {Moskva},
+  author     = {Talibov, Bukar B.},
+  pages      = {302},
+  publisher  = {Akademia},
+  title      = {Buduxskij jazyk},
+  year       = {2007}
+  }";
+Budukh;2;r/l;b;II;F;female;[Talibov 2007: 52-63];"@book{313088,
+  address    = {Moskva},
+  author     = {Talibov, Bukar B.},
+  pages      = {302},
+  publisher  = {Akademia},
+  title      = {Buduxskij jazyk},
+  year       = {2007}
+  }";
+Budukh;3;b;d;III;;nonhuman;[Talibov 2007: 52-63];"@book{313088,
+  address    = {Moskva},
+  author     = {Talibov, Bukar B.},
+  pages      = {302},
+  publisher  = {Akademia},
+  title      = {Buduxskij jazyk},
+  year       = {2007}
+  }";
+Budukh;4;d;e;IV;;inanim;[Talibov 2007: 52-63];"@book{313088,
+  address    = {Moskva},
+  author     = {Talibov, Bukar B.},
+  pages      = {302},
+  publisher  = {Akademia},
+  title      = {Buduxskij jazyk},
+  year       = {2007}
+  }";
+Chamalal;1;w;b;1;;males;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal;2;j;b;2;;females;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal;3;b;j;3;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal;4;l;j;4;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal;5;j;j;5;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gigatl;1;w;b;1;;males;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gigatl;2;j;b;2;;females;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gigatl;3;b;j;3;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gigatl;4;l;j;4;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gigatl;5;r;j;5;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gakvar;1;w;b;1;;males;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gakvar;2;j;b;2;;females;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gakvar;3;b;j;3;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gakvar;4;l;j;4;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chamalal Gakvar;5;j/w;j;5;;nonhuman;[Bokarev 1949: 22-26];"@book{146977,
+  address               = {Moscow},
+  author                = {Anatolij A. Bokarev},
+  pages                 = {178},
+  publisher             = {Akademia Nauk SSSR},
+  title                 = {Očerk Grammatiki Čamalinskogo Jazyka},
+  year                  = {1949}
+  }";
+Chechen;1;v(m)/j(f);b(/d);H;;human;[Nichols 1994: 21-22];"@incollection{109025,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {3-76},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Chechen},
+  volume     = {4},
+  year       = {1994}
+  }";
+Chechen;2;j;j;J;;nonhuman;[Nichols 1994: 21-22];"@incollection{109025,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {3-76},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Chechen},
+  volume     = {4},
+  year       = {1994}
+  }";
+Chechen;3;d;d;D;;nonhuman;[Nichols 1994: 21-22];"@incollection{109025,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {3-76},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Chechen},
+  volume     = {4},
+  year       = {1994}
+  }";
+Chechen;4;b;b/-;B;;nonhuman;[Nichols 1994: 21-22];"@incollection{109025,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {3-76},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Chechen},
+  volume     = {4},
+  year       = {1994}
+  }";
+Chechen;5;b;d;Bd;;nonhuman;[Nichols 1994: 21-22];"@incollection{109025,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {3-76},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Chechen},
+  volume     = {4},
+  year       = {1994}
+  }";
+Dargwa;1;w;d/r/b;I;M;male;[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa;2;r/d;d/r/b;II;F;female;[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa;3;b;d/r;III;N;nonhuman;[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa Megweb;1;w;b;I;M;male;[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa Megweb;2;r;b;II;F;female (mother);[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa Megweb;3;d;b;III;F;female (daughter);[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa Megweb;4;b;d/r;IV;N;nonhuman;[Sumbatova, Lander 2014: 433-435];"@book{476692,
+  address    = {Moskva},
+  author     = {Nina R. Sumbatova and Yury A. Lander},
+  pages      = {752},
+  publisher  = {Jazyku Slavyanskoy Kultury},
+  title      = {Darginskij Govor Seleniya Tanty: Grammatičeskij Očerk, Voprosy Sintaksisa},
+  year       = {2014}
+}";
+Dargwa Muirin;1;w;d/b;I;M;male;[Magometov 1982: 15-23];"@book{33161,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {231},
+  publisher             = {Mecniereba},
+  title                 = {Megebskij dialekt darginskogo jazyka: (issledovanie i teksty)},
+  year                  = {1982}
+  }";
+Dargwa Muirin;2;r;d/b;II;F;female;[Magometov 1982: 15-23];"@book{33161,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {231},
+  publisher             = {Mecniereba},
+  title                 = {Megebskij dialekt darginskogo jazyka: (issledovanie i teksty)},
+  year                  = {1982}
+  }";
+Dargwa Muirin;3;b;d;III;N;nonhuman;[Magometov 1982: 15-23];"@book{33161,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {231},
+  publisher             = {Mecniereba},
+  title                 = {Megebskij dialekt darginskogo jazyka: (issledovanie i teksty)},
+  year                  = {1982}
+  }";
+Dargwa Tanti;1;w/j;d/r/b;I;M;male;[Magometov 1982: 15-23];"@book{33161,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {231},
+  publisher             = {Mecniereba},
+  title                 = {Megebskij dialekt darginskogo jazyka: (issledovanie i teksty)},
+  year                  = {1982}
+  }";
+Dargwa Tanti;2;r/d;d/r/b;II;F;female;[Magometov 1982: 15-23];"@book{33161,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {231},
+  publisher             = {Mecniereba},
+  title                 = {Megebskij dialekt darginskogo jazyka: (issledovanie i teksty)},
+  year                  = {1982}
+  }";
+Dargwa Tanti;3;b;d/r;III;N;nonhuman;[Magometov 1982: 15-23];"@book{33161,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {231},
+  publisher             = {Mecniereba},
+  title                 = {Megebskij dialekt darginskogo jazyka: (issledovanie i teksty)},
+  year                  = {1982}
+  }";
+Dargwa Khaidak;1;w/j;b;I;M;male;[Temirbulatova 2004:60] ;"@book{temirbulatova2004,
+  title={Khaidakskij dialekt darginskogo jazyka},
+  author={Temirbulatova, S.M.},
+  year={2004},
+  publisher={Izd-vo. tip. DNC RAN}
+}";
+Dargwa Khaidak;2;r;b;II;F;female;[Temirbulatova 2004:60] ;"@book{temirbulatova2004,
+  title={Khaidakskij dialekt darginskogo jazyka},
+  author={Temirbulatova, S.M.},
+  year={2004},
+  publisher={Izd-vo. tip. DNC RAN}
+}";
+Dargwa Khaidak;3;b;d;III;N;nonhuman;[Temirbulatova 2004:60] ;"@book{temirbulatova2004,
+  title={Khaidakskij dialekt darginskogo jazyka},
+  author={Temirbulatova, S.M.},
+  year={2004},
+  publisher={Izd-vo. tip. DNC RAN}
+}";
+Dargwa Kubachi;1;w;b;I;M;male;[Magometov 1963: 66-70];"@book{66395,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {340},
+  publisher             = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title                 = {Kubačinskij jazyk: (issledovanie i teksty)},
+  year                  = {1963}
+  }";
+Dargwa Kubachi;2;j;b;II;F;female;[Magometov 1963: 66-70];"@book{66395,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {340},
+  publisher             = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title                 = {Kubačinskij jazyk: (issledovanie i teksty)},
+  year                  = {1963}
+  }";
+Dargwa Kubachi;3;b;d;III;N;nonhuman;[Magometov 1963: 66-70];"@book{66395,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {340},
+  publisher             = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title                 = {Kubačinskij jazyk: (issledovanie i teksty)},
+  year                  = {1963}
+  }";
+Dargwa Urkar;1;w;b/d;I;M;male;[Magometov 1963: 66-70];"@book{66395,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {340},
+  publisher             = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title                 = {Kubačinskij jazyk: (issledovanie i teksty)},
+  year                  = {1963}
+  }";
+Dargwa Urkar;2;r;b/d;II;F;female;[Magometov 1963: 66-70];"@book{66395,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {340},
+  publisher             = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title                 = {Kubačinskij jazyk: (issledovanie i teksty)},
+  year                  = {1963}
+  }";
+Dargwa Urkar;3;b;d;III;N;nonhuman;[Magometov 1963: 66-70];"@book{66395,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr A.},
+  pages                 = {340},
+  publisher             = {Izdatel'stvo Akademia Nauk Gruzinskoj SSR},
+  title                 = {Kubačinskij jazyk: (issledovanie i teksty)},
+  year                  = {1963}
+  }";
+Dargwa Urakh;1;w;b;I;M;male;[Shakhbanova 2007: 47-65];" @phdthesis{shakhbanova 2007,
+  address               = {Maxačkala},
+  author                = {Shakhbanova, D.N.},
+  pages                 = {181},
+  publisher             = {Dagestanskij gosudarstvennyj pedagogicheskij universitet},
+  title                 = {Butrinskij govor darginskogo yazyka (phoneticheskie i morphologicheskie osobennosti)},
+  year                  = {2007}
+  }";
+Dargwa Urakh;2;d/r;b;II;F;female;[Shakhbanova 2007: 47-65];" @phdthesis{shakhbanova 2007,
+  address               = {Maxačkala},
+  author                = {Shakhbanova, D.N.},
+  pages                 = {181},
+  publisher             = {Dagestanskij gosudarstvennyj pedagogicheskij universitet},
+  title                 = {Butrinskij govor darginskogo yazyka (phoneticheskie i morphologicheskie osobennosti)},
+  year                  = {2007}
+  }";
+Dargwa Urakh;3;b;d/r;III;N;nonhuman;[Shakhbanova 2007: 47-65];" @phdthesis{shakhbanova 2007,
+  address               = {Maxačkala},
+  author                = {Shakhbanova, D.N.},
+  pages                 = {181},
+  publisher             = {Dagestanskij gosudarstvennyj pedagogicheskij universitet},
+  title                 = {Butrinskij govor darginskogo yazyka (phoneticheskie i morphologicheskie osobennosti)},
+  year                  = {2007}
+  }";
+Dargwa Butri;1;w;b;I;M;male;[Shakhbanova 2007: 47-65];" @phdthesis{shakhbanova 2007,
+  address               = {Maxačkala},
+  author                = {Shakhbanova, D.N.},
+  pages                 = {181},
+  publisher             = {Dagestanskij gosudarstvennyj pedagogicheskij universitet},
+  title                 = {Butrinskij govor darginskogo yazyka (phoneticheskie i morphologicheskie osobennosti)},
+  year                  = {2007}
+  }";
+Dargwa Butri;2;d/r;b;II;F;female;[Shakhbanova 2007: 47-65];" @phdthesis{shakhbanova 2007,
+  address               = {Maxačkala},
+  author                = {Shakhbanova, D.N.},
+  pages                 = {181},
+  publisher             = {Dagestanskij gosudarstvennyj pedagogicheskij universitet},
+  title                 = {Butrinskij govor darginskogo yazyka (phoneticheskie i morphologicheskie osobennosti)},
+  year                  = {2007}
+  }";
+Dargwa Butri;3;b;d;III;N;nonhuman;[Shakhbanova 2007: 47-65];" @phdthesis{shakhbanova 2007,
+  address               = {Maxačkala},
+  author                = {Shakhbanova, D.N.},
+  pages                 = {181},
+  publisher             = {Dagestanskij gosudarstvennyj pedagogicheskij universitet},
+  title                 = {Butrinskij govor darginskogo yazyka (phoneticheskie i morphologicheskie osobennosti)},
+  year                  = {2007}
+  }";
+Godoberi;1;w;b;I;M;male;[Saidova 1973: 40-41];"@book{25632,
+  address    = {Maxachkala},
+  author     = {Saidova, Patimat Abduaevna},
+  publisher  = {Dagestaiskij filial akademii nauk SSSR},
+  title      = {Godoberinskij jazyk: grammaticheskij ocherk, teksty, slovar'},
+  year       = {1973}
+  }";
+Godoberi;2;j;b;II;F;female;[Saidova 1973: 40-41];"@book{25632,
+  address    = {Maxachkala},
+  author     = {Saidova, Patimat Abduaevna},
+  publisher  = {Dagestaiskij filial akademii nauk SSSR},
+  title      = {Godoberinskij jazyk: grammaticheskij ocherk, teksty, slovar'},
+  year       = {1973}
+  }";
+Godoberi;3;b;r;III;N;nonhuman;[Saidova 1973: 40-41];"@book{25632,
+  address    = {Maxachkala},
+  author     = {Saidova, Patimat Abduaevna},
+  publisher  = {Dagestaiskij filial akademii nauk SSSR},
+  title      = {Godoberinskij jazyk: grammaticheskij ocherk, teksty, slovar'},
+  year       = {1973}
+  }";
+Hinuq;1;Ø;b;I;M;male;[Forker 2013: 115-129];"@book{300421,
+  address    = {Berlin, Boston},
+  author     = {Diana Forker},
+  pages      = {827},
+  publisher  = {Berlin: De Gruyter Mouton},
+  series     = {Mouton Grammar Library},
+  title      = {A grammar of Hinuq},
+  url        = {http://www.degruyter.com/view/books/9783110303971/9783110303971/9783110303971.xml},
+  volume     = {63},
+  year       = {2013},
+  doi        = {10.1515/9783110303971}
+  }";
+Hinuq;2;j;r/b;II;F;female;[Forker 2013: 115-129];"@book{300421,
+  address    = {Berlin, Boston},
+  author     = {Diana Forker},
+  pages      = {827},
+  publisher  = {Berlin: De Gruyter Mouton},
+  series     = {Mouton Grammar Library},
+  title      = {A grammar of Hinuq},
+  url        = {http://www.degruyter.com/view/books/9783110303971/9783110303971/9783110303971.xml},
+  volume     = {63},
+  year       = {2013},
+  doi        = {10.1515/9783110303971}
+  }";
+Hinuq;3;b;r;III;;nonhuman;[Forker 2013: 115-129];"@book{300421,
+  address    = {Berlin, Boston},
+  author     = {Diana Forker},
+  pages      = {827},
+  publisher  = {Berlin: De Gruyter Mouton},
+  series     = {Mouton Grammar Library},
+  title      = {A grammar of Hinuq},
+  url        = {http://www.degruyter.com/view/books/9783110303971/9783110303971/9783110303971.xml},
+  volume     = {63},
+  year       = {2013},
+  doi        = {10.1515/9783110303971}
+  }";
+Hinuq;4;j;r;IV;;inanim;[Forker 2013: 115-129];"@book{300421,
+  address    = {Berlin, Boston},
+  author     = {Diana Forker},
+  pages      = {827},
+  publisher  = {Berlin: De Gruyter Mouton},
+  series     = {Mouton Grammar Library},
+  title      = {A grammar of Hinuq},
+  url        = {http://www.degruyter.com/view/books/9783110303971/9783110303971/9783110303971.xml},
+  volume     = {63},
+  year       = {2013},
+  doi        = {10.1515/9783110303971}
+  }";
+Hinuq;5;r;r;V;;inanim;[Forker 2013: 115-129];"@book{300421,
+  address    = {Berlin, Boston},
+  author     = {Diana Forker},
+  pages      = {827},
+  publisher  = {Berlin: De Gruyter Mouton},
+  series     = {Mouton Grammar Library},
+  title      = {A grammar of Hinuq},
+  url        = {http://www.degruyter.com/view/books/9783110303971/9783110303971/9783110303971.xml},
+  volume     = {63},
+  year       = {2013},
+  doi        = {10.1515/9783110303971}
+  }";
+Hunzib;1;Ø;b;1;M;male;[Van der Berg 1995: 35];" @book{9075,
+  address    = {München},
+  author     = {Helma van den Berg},
+  pages      = {xvi+366},
+  publisher  = {Lincom},
+  series     = {LINCOM Studies in Caucasian Linguistics},
+  title      = {A Grammar of Hunzib (with Texts and Lexicon)},
+  volume     = {01},
+  year       = {1995}
+  }";
+Hunzib;2;j;b;2;F;female;[Van der Berg 1995: 35];" @book{9075,
+  address    = {München},
+  author     = {Helma van den Berg},
+  pages      = {xvi+366},
+  publisher  = {Lincom},
+  series     = {LINCOM Studies in Caucasian Linguistics},
+  title      = {A Grammar of Hunzib (with Texts and Lexicon)},
+  volume     = {01},
+  year       = {1995}
+  }";
+Hunzib;3;j;r;3;;inanim;[Van der Berg 1995: 35];" @book{9075,
+  address    = {München},
+  author     = {Helma van den Berg},
+  pages      = {xvi+366},
+  publisher  = {Lincom},
+  series     = {LINCOM Studies in Caucasian Linguistics},
+  title      = {A Grammar of Hunzib (with Texts and Lexicon)},
+  volume     = {01},
+  year       = {1995}
+  }";
+Hunzib;4;b;r;4;;nonhuman;[Van der Berg 1995: 35];" @book{9075,
+  address    = {München},
+  author     = {Helma van den Berg},
+  pages      = {xvi+366},
+  publisher  = {Lincom},
+  series     = {LINCOM Studies in Caucasian Linguistics},
+  title      = {A Grammar of Hunzib (with Texts and Lexicon)},
+  volume     = {01},
+  year       = {1995}
+  }";
+Hunzib;5;r;r;5;;inanim, child;[Van der Berg 1995: 35];" @book{9075,
+  address    = {München},
+  author     = {Helma van den Berg},
+  pages      = {xvi+366},
+  publisher  = {Lincom},
+  series     = {LINCOM Studies in Caucasian Linguistics},
+  title      = {A Grammar of Hunzib (with Texts and Lexicon)},
+  volume     = {01},
+  year       = {1995}
+  }";
+Ingush;1;v(m)/j(f);b(/d);H;;human;[Nichols 1994: 93-94];"@incollection{57033,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {79-146},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Ingush},
+  volume     = {4},
+  year       = {1994}
+  }";
+Ingush;2;j;j;J;;nonhuman;[Nichols 1994: 93-94];"@incollection{57033,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {79-146},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Ingush},
+  volume     = {4},
+  year       = {1994}
+  }";
+Ingush;3;d;d;D;;nonhuman;[Nichols 1994: 93-94];"@incollection{57033,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {79-146},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Ingush},
+  volume     = {4},
+  year       = {1994}
+  }";
+Ingush;4;b;d;Bd;;nonhuman;[Nichols 1994: 93-94];"@incollection{57033,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {79-146},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Ingush},
+  volume     = {4},
+  year       = {1994}
+  }";
+Ingush;5;b;b;Bb;;nonhuman;[Nichols 1994: 93-94];"@incollection{57033,
+  address    = {New York},
+  author     = {Johanna Nichols},
+  booktitle  = {North East Caucasian Languages Part 2},
+  editor     = {Rieks Smeets},
+  pages      = {79-146},
+  publisher  = {Caravan Books, Delmar},
+  series     = {The Indigenous Languages of the Caucasus},
+  title      = {Ingush},
+  volume     = {4},
+  year       = {1994}
+  }";
+Karat;1;w;b;M;M;male;[Magomedbekova 1971: 41-43];"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }";
+Karat;2;j;b;F;F;female;[Magomedbekova 1971: 41-43];"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }";
+Karat;3;b;r;N;N;nonhuman;[Magomedbekova 1971: 41-43];"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }";
+Khinalug;1;Ø;b;I;M;male;[Kibrik 1994: 373-374];"@incollection{14481,
+  address               = {Delmar, New York},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {367-406},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Khinalug},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Khinalug;2;z;b;II;F;female;[Kibrik 1994: 373-374];"@incollection{14481,
+  address               = {Delmar, New York},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {367-406},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Khinalug},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Khinalug;3;b;Ø;III;;nonhuman;[Kibrik 1994: 373-374];"@incollection{14481,
+  address               = {Delmar, New York},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {367-406},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Khinalug},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Khinalug;4;Ø;Ø;IV;;inanim;[Kibrik 1994: 373-374];"@incollection{14481,
+  address               = {Delmar, New York},
+  author                = {Kibrik, A. E.},
+  booktitle             = {North East Caucasian Languages Part 2},
+  editor                = {Rieks Smeets},
+  pages                 = {367-406},
+  publisher             = {Delmar, NY: Caravan Books},
+  series                = {The Indigenous Languages of the Caucasus},
+  title                 = {Khinalug},
+  volume                = {4},
+  year                  = {1994}
+  }";
+Kryz;1;r;b;I;M;male;[Saadiev 1994: 412-413];"@incollection{kryz1994,
+  address = {Delmar, NY},
+  booktitle = {North East Caucasian Languages Part 2},
+  series = {The Indigenous Languages of the Caucasus},
+  title = {Kryts},
+  author={Saadiev, Sh.M.},
+  editor= {Rieks Smeets},
+  volume={4},
+  pages = {407-446},
+  publisher ={Caravan Books},
+  year={1994}
+}";
+Kryz;2;b;b;II;F;female;[Saadiev 1994: 412-413];"@incollection{kryz1994,
+  address = {Delmar, NY},
+  booktitle = {North East Caucasian Languages Part 2},
+  series = {The Indigenous Languages of the Caucasus},
+  title = {Kryts},
+  author={Saadiev, Sh.M.},
+  editor= {Rieks Smeets},
+  volume={4},
+  pages = {407-446},
+  publisher ={Caravan Books},
+  year={1994}
+}";
+Kryz;3;b;d;III;;anim;[Saadiev 1994: 412-413];"@incollection{kryz1994,
+  address = {Delmar, NY},
+  booktitle = {North East Caucasian Languages Part 2},
+  series = {The Indigenous Languages of the Caucasus},
+  title = {Kryts},
+  author={Saadiev, Sh.M.},
+  editor= {Rieks Smeets},
+  volume={4},
+  pages = {407-446},
+  publisher ={Caravan Books},
+  year={1994}
+}";
+Kryz;4;d;d;IV;;inanim;[Saadiev 1994: 412-413];"@incollection{kryz1994,
+  address = {Delmar, NY},
+  booktitle = {North East Caucasian Languages Part 2},
+  series = {The Indigenous Languages of the Caucasus},
+  title = {Kryts},
+  author={Saadiev, Sh.M.},
+  editor= {Rieks Smeets},
+  volume={4},
+  pages = {407-446},
+  publisher ={Caravan Books},
+  year={1994}
+}";
+Khvarshi;1;Ø/w;b;I;M;male;[Khalilova 2009: 41-47];"@phdthesis{74951,
+  address    = {Moskva},
+  author     = {Zaira Khalilova},
+  pages      = {499},
+  school     = {Rijksuniversiteit te Leiden},
+  series     = {LOT Dissertation Series},
+  title      = {A grammar of Khwarshi},
+  volume     = {234},
+  year       = {2009}
+  }";
+Khvarshi;2;j;b;II;F;female;[Khalilova 2009: 41-47];"@phdthesis{74951,
+  address    = {Moskva},
+  author     = {Zaira Khalilova},
+  pages      = {499},
+  school     = {Rijksuniversiteit te Leiden},
+  series     = {LOT Dissertation Series},
+  title      = {A grammar of Khwarshi},
+  volume     = {234},
+  year       = {2009}
+  }";
+Khvarshi;3;b;l/r;III;;nonhuman;[Khalilova 2009: 41-47];"@phdthesis{74951,
+  address    = {Moskva},
+  author     = {Zaira Khalilova},
+  pages      = {499},
+  school     = {Rijksuniversiteit te Leiden},
+  series     = {LOT Dissertation Series},
+  title      = {A grammar of Khwarshi},
+  volume     = {234},
+  year       = {2009}
+  }";кажется w,r показатели для местоимений
+Khvarshi;4;l/r;l/r;IV;;nonhuman;[Khalilova 2009: 41-47];"@phdthesis{74951,
+  address    = {Moskva},
+  author     = {Zaira Khalilova},
+  pages      = {499},
+  school     = {Rijksuniversiteit te Leiden},
+  series     = {LOT Dissertation Series},
+  title      = {A grammar of Khwarshi},
+  volume     = {234},
+  year       = {2009}
+  }";
+Khvarshi;5;j;l/r;V;;nonhuman;[Khalilova 2009: 41-47];"@phdthesis{74951,
+  address    = {Moskva},
+  author     = {Zaira Khalilova},
+  pages      = {499},
+  school     = {Rijksuniversiteit te Leiden},
+  series     = {LOT Dissertation Series},
+  title      = {A grammar of Khwarshi},
+  volume     = {234},
+  year       = {2009}
+  }";
+Lak;1;Ø/w;b/w;1;M;male;[Forker 2018: 3];"@article{forker2018,
+  address    = {Berlin, Boston},
+  author     = {Forker, D},
+  editor     = {Haig, G.},
+  pages      = {23},
+  publisher  = {Berlin: De Gruyter Mouton},
+  volume     = {56(4)},
+  journal    = {Linguistics},
+  title      = {Gender agreement is different},
+  year       = {2018}
+  }";
+Lak;2;d/r;b/w;2;F;female;[Forker 2018: 3];"@article{forker2018,
+  address    = {Berlin, Boston},
+  author     = {Forker, D},
+  editor     = {Haig, G.},
+  pages      = {23},
+  publisher  = {Berlin: De Gruyter Mouton},
+  volume     = {56(4)},
+  journal    = {Linguistics},
+  title      = {Gender agreement is different},
+  year       = {2018}
+  }";
+Lak;3;b/w;b/w;3;;female, nonhuman;[Forker 2018: 3];"@article{forker2018,
+  address    = {Berlin, Boston},
+  author     = {Forker, D},
+  editor     = {Haig, G.},
+  pages      = {23},
+  publisher  = {Berlin: De Gruyter Mouton},
+  volume     = {56(4)},
+  journal    = {Linguistics},
+  title      = {Gender agreement is different},
+  year       = {2018}
+  }";
+Lak;4;d/r;d/r;4;;inanim;[Forker 2018: 3];"@article{forker2018,
+  address    = {Berlin, Boston},
+  author     = {Forker, D},
+  editor     = {Haig, G.},
+  pages      = {23},
+  publisher  = {Berlin: De Gruyter Mouton},
+  volume     = {56(4)},
+  journal    = {Linguistics},
+  title      = {Gender agreement is different},
+  year       = {2018}
+  }";
+Lak Arakul;1;Ø/w;d/r;I;M;male;[Khaidakov 1966: 20];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Arakul;2;b/w;b/w;II;;;[Khaidakov 1966: 20];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";женский класс начал сливаться с классом неразумных существ
+Lak Arakul;3;b/w;b/w;III;;females, nonhuman;[Khaidakov 1966: 20];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Arakul;4;d/r;d/r;IV;;inanim;[Khaidakov 1966: 20];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Bartkhin;1;Ø/w;b;I;;male;[Khaidakov 1966: 43-44];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Bartkhin;2;d/r;d/r;II;;female;[Khaidakov 1966: 43-44];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";только в балхарском говоре женщины во 2 классе
+Lak Bartkhin;3;b;b;III;;female, nonhuman;[Khaidakov 1966: 43-44];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Bartkhin;4;d/r;d/r;IV;;inanim;[Khaidakov 1966: 43-44];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Shadnin;1;Ø/w;b/w;I;;male;[Khaidakov 1966: 63-64];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Shadnin;2;d/w;b/w;II;;female;[Khaidakov 1966: 63-64];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Shadnin;3;b/w;b/w;III;;nonhuman;[Khaidakov 1966: 63-64];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Shadnin;4;d/r;d/r;IV;;inanim;[Khaidakov 1966: 63-64];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vachi-Kuli;1;w;b/w;I;;male;[Khaidakov 1966: 86];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vachi-Kuli;2;d/r;b/w;II;;female;[Khaidakov 1966: 86];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vachi-Kuli;3;b;b/w;III;;nonhuman;[Khaidakov 1966: 86];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vachi-Kuli;4;d/r;d/r;IV;;inanim;[Khaidakov 1966: 86];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vikhli;1;w;b/w;I;;male;[Khaidakov 1966: 94-95];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vikhli;2;d/r;b/w;II;;female;[Khaidakov 1966: 94-95];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vikhli;3;b;b/w;III;;nonhuman;[Khaidakov 1966: 94-95];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vikhli;4;d/r;d/r;IV;;inanim;[Khaidakov 1966: 94-95];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vitskhi;1;w;b/w;I;;male;[Khaidakov 1966: 110];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vitskhi;2;d/w;b/w;II;;female;[Khaidakov 1966: 110];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vitskhi;3;w;b/w;III;;nonhuman;[Khaidakov 1966: 110];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lak Vitskhi;4;d/w;d/r;IV;;inanim;[Khaidakov 1966: 110];"@book{khaidakov1966,
+  title={Očerki po lakskoj dialektologii},
+  author={Khaidakov, Said Magamedovič},
+  year={1966},
+  publisher={Nauka}
+}";
+Lezgian;NA;NA;NA;NA;NA;NA;[Haspelmath 1993: 6];"@book{91629,
+  address               = {Berlin},
+  author                = {Martin Haspelmath},
+  booktitle             = {A Grammar of Lezgian},
+  number                = {9},
+  pages                 = {xx+567},
+  publisher             = {Mouton de Gruyter},
+  series                = {Mouton Grammar Library},
+  title                 = {A Grammar of Lezgian},
+  url                   = {http://www.degruyter.com/view/books/9783110884210/9783110884210/9783110884210.xml},
+  volume                = {9},
+  year                  = {1993}
+  }";
+Rutul;1;r/j/w/u/Ø;d/(j);I;M;male;[Ibragimov 1978: 42-46];"  @book{143370,
+  address    = {Moskva},
+  author     = {G. X. Ibragimov},
+  pages      = {307},
+  publisher  = {Moscow: Akademia Nauk SSSR},
+  title      = {Rutul'skij Jazyk},
+  year       = {1978}
+  }";
+Rutul;2;r/j/i;d/(j);II;F;female;[Ibragimov 1978: 145-146];"  @book{143370,
+  address    = {Moskva},
+  author     = {G. X. Ibragimov},
+  pages      = {307},
+  publisher  = {Moscow: Akademia Nauk SSSR},
+  title      = {Rutul'skij Jazyk},
+  year       = {1978}
+  }";посм. кавказские языки 1998: 154
+Rutul;3;w/b/d/j/i/u;j/(d/-);III;;anim, inanim;[Ibragimov 1978: 240-241];"  @book{143370,
+  address    = {Moskva},
+  author     = {G. X. Ibragimov},
+  pages      = {307},
+  publisher  = {Moscow: Akademia Nauk SSSR},
+  title      = {Rutul'skij Jazyk},
+  year       = {1978}
+  }";в борчинско-хиновском все одушевленные существа только в 3 классе
+Rutul;4;d/j/i/u;j/(d/-);IV;;inanim, anim;[Ibragimov 1978: 171-172];"  @book{143370,
+  address    = {Moskva},
+  author     = {G. X. Ibragimov},
+  pages      = {307},
+  publisher  = {Moscow: Akademia Nauk SSSR},
+  title      = {Rutul'skij Jazyk},
+  year       = {1978}
+  }";в мюхрекском в 4 классе строго только вещи, в 3 — животные
+Tabasaran;1;d/r/j;d/r/j;I;;human;[Magometov 1965: 79-93];"  @book{65762,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr Amarovic},
+  pages                 = {xvi+398},
+  publisher             = {Izdatel'stvo ""Mecniereba""},
+  title                 = {Tabasaranskij jazyk: (issledovanie i teksty)},
+  year                  = {1965}
+  }";в северных говорах классы сохранились лучше, на юге хуже (соседство)ю
+Tabasaran;2;b/w/f;d/r/j;II;;nonhuman;[Magometov 1965: 79-93];"  @book{65762,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr Amarovic},
+  pages                 = {xvi+398},
+  publisher             = {Izdatel'stvo ""Mecniereba""},
+  title                 = {Tabasaranskij jazyk: (issledovanie i teksty)},
+  year                  = {1965}
+  }";
+Tabasaran Northern;1;d/r/j;d/r/j;I;;human;[Magometov 1965: 79-93];"  @book{65762,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr Amarovic},
+  pages                 = {xvi+398},
+  publisher             = {Izdatel'stvo ""Mecniereba""},
+  title                 = {Tabasaranskij jazyk: (issledovanie i teksty)},
+  year                  = {1965}
+  }";
+Tabasaran Northern;2;w;d/r/j;II;;nonhuman;[Magometov 1965: 79-93];"  @book{65762,
+  address               = {Tbilisi},
+  author                = {Magometov, Aleksandr Amarovic},
+  pages                 = {xvi+398},
+  publisher             = {Izdatel'stvo ""Mecniereba""},
+  title                 = {Tabasaranskij jazyk: (issledovanie i teksty)},
+  year                  = {1965}
+  }";кавказские языки 1998: 141вместо b будет w
+Tindi;1;w;b/m;I;M;male;[Magomedbekova 1998: 27];"  @incollection{317842,
+  address    = {Moskva},
+  author     = {Magomedbekova, Z. M.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {25-32},
+  publisher  = {Academia},
+  title      = {Tindinskij Jazyk},
+  year       = {1998}
+  }";
+Tindi;2;j;b/m;II;F;female;[Magomedbekova 1998: 27];"  @incollection{317842,
+  address    = {Moskva},
+  author     = {Magomedbekova, Z. M.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {25-32},
+  publisher  = {Academia},
+  title      = {Tindinskij Jazyk},
+  year       = {1998}
+  }";
+Tindi;3;b;r;III;N;nonhuman;[Magomedbekova 1998: 27];"  @incollection{317842,
+  address    = {Moskva},
+  author     = {Magomedbekova, Z. M.},
+  booktitle  = {Yazyki mira: Kavkazskie Yazyki},
+  pages      = {25-32},
+  publisher  = {Academia},
+  title      = {Tindinskij Jazyk},
+  year       = {1998}
+  }";
+Tsakhur;1;r/j/w;d/b/w;I;M;male;[Ibragimov 1990: 54-63];"@book{140946,
+  address               = {Moskva},
+  author                = {Ibragimov, Garun X.},
+  pages                 = {237},
+  publisher             = {Nauka},
+  title                 = {Tsaxurskij jazyk},
+  year                  = {1990}
+  }";
+Tsakhur;2;r/i/Ø;d/b/w;II;F;female;[Ibragimov 1990: 54-63];"@book{140946,
+  address               = {Moskva},
+  author                = {Ibragimov, Garun X.},
+  pages                 = {237},
+  publisher             = {Nauka},
+  title                 = {Tsaxurskij jazyk},
+  year                  = {1990}
+  }";
+Tsakhur;3;w/b;d/j;III;;anim, inanim;[Ibragimov 1990: 54-63];"@book{140946,
+  address               = {Moskva},
+  author                = {Ibragimov, Garun X.},
+  pages                 = {237},
+  publisher             = {Nauka},
+  title                 = {Tsaxurskij jazyk},
+  year                  = {1990}
+  }";
+Tsakhur;4;d/j/i;d/j/w;IV;;inanim, anim;[Ibragimov 1990: 54-63];"@book{140946,
+  address               = {Moskva},
+  author                = {Ibragimov, Garun X.},
+  pages                 = {237},
+  publisher             = {Nauka},
+  title                 = {Tsaxurskij jazyk},
+  year                  = {1990}
+  }";
+Tsez;1;Ø;b;I;M;male;[Bokarev 1959: 180-182];"@book{121256,
+  address          = {Moscow},
+  author           = {Bokarev, Evgenij Alekseevich},
+  pages            = {290},
+  publisher        = {Akademia Nauk SSSR},
+  title            = {Tsezskie (didojskie) Yazyki dagestana},
+  year             = {1959}
+  }";
+Tsez;2;j;r;II;F;female;[Bokarev 1959: 180-182];"@book{121256,
+  address          = {Moscow},
+  author           = {Bokarev, Evgenij Alekseevich},
+  pages            = {290},
+  publisher        = {Akademia Nauk SSSR},
+  title            = {Tsezskie (didojskie) Yazyki dagestana},
+  year             = {1959}
+  }";
+Tsez;3;b;r;III;;nonhuman;[Bokarev 1959: 180-182];"@book{121256,
+  address          = {Moscow},
+  author           = {Bokarev, Evgenij Alekseevich},
+  pages            = {290},
+  publisher        = {Akademia Nauk SSSR},
+  title            = {Tsezskie (didojskie) Yazyki dagestana},
+  year             = {1959}
+  }";
+Tsez;4;r;r;IV;;inanim;[Bokarev 1959: 180-182];"@book{121256,
+  address          = {Moscow},
+  author           = {Bokarev, Evgenij Alekseevich},
+  pages            = {290},
+  publisher        = {Akademia Nauk SSSR},
+  title            = {Tsezskie (didojskie) Yazyki dagestana},
+  year             = {1959}
+  }";
+Udi;NA;NA;NA;NA;NA;NA;[Harris 2002: 176-177];"@book{30334,
+  address               = {Oxford},
+  author                = {Harris, Alice C.},
+  pages                 = {xvi+299},
+  publisher             = {Oxford Univ. Press},
+  title                 = {Endoclitics and the origins of Udi morphosyntax},
+  year                  = {2002}
+  }";
