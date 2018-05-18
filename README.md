@@ -6,4 +6,4 @@
 
 ## About 
 
-TBA
+[Database of Gender Systems in Nakh-Daghestanian languages](https://github.com/kartozia/Gender-Systems-Database/blob/master/footer.html)
