@@ -6,4 +6,4 @@
 
 ## About 
 
-[Database of Gender Systems in Nakh-Daghestanian languages](https://github.com/kartozia/Gender-Systems-Database/blob/master/footer.html)
+[Database of Gender Systems in Nakh-Daghestanian languages](https://kartozia.github.io/Gender-Systems-Database/)
