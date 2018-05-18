@@ -120,10 +120,10 @@
 119;Karat;1;w;b;M;M;male;[Magomedbekova 1971: 41-43];magomedbekova1971;
 120;Karat;2;j;b;F;F;female;[Magomedbekova 1971: 41-43];magomedbekova1971;
 121;Karat;3;b;r;N;N;nonhuman;[Magomedbekova 1971: 41-43];magomedbekova1971;
-122;Khinalug;1;Ø;b;I;M;male;[Kibrik 1994: 373-374];kibrik1994;
-123;Khinalug;2;z;b;II;F;female;[Kibrik 1994: 373-374];kibrik1994;
-124;Khinalug;3;b;Ø;III;;nonhuman;[Kibrik 1994: 373-374];kibrik1994;
-125;Khinalug;4;Ø;Ø;IV;;inanim;[Kibrik 1994: 373-374];kibrik1994;
+122;Khinalug;1;Ø;b;I;M;male;[Kibrik 1994: 373-374];khinalugkibrik1994;
+123;Khinalug;2;z;b;II;F;female;[Kibrik 1994: 373-374];khinalugkibrik1994;
+124;Khinalug;3;b;Ø;III;;nonhuman;[Kibrik 1994: 373-374];khinalugkibrik1994;
+125;Khinalug;4;Ø;Ø;IV;;inanim;[Kibrik 1994: 373-374];khinalugkibrik1994;
 126;Kryz;1;r;b;I;M;male;[Saadiev 1994: 412-413];saadiev1994;
 127;Kryz;2;b;b;II;F;female;[Saadiev 1994: 412-413];saadiev1994;
 128;Kryz;3;b;d;III;;anim;[Saadiev 1994: 412-413];saadiev1994;
@@ -161,11 +161,11 @@
 160;Lak Vitskhi;2;d/w;b/w;II;;female;[Khaidakov 1966: 110];khaidakov1966;
 161;Lak Vitskhi;3;w;b/w;III;;nonhuman;[Khaidakov 1966: 110];khaidakov1966;
 162;Lak Vitskhi;4;d/w;d/r;IV;;inanim;[Khaidakov 1966: 110];khaidakov1966;
-163;Lezgian;NA;NA;NA;NA;NA;NA;[Haspelmath 1993: 6];haspelmath2013;
-164;Rutul;1;r/j/w/u/Ø;d/(j);I;M;male;[Ibragimov 1978: 42-46];ibragimov 1978;
-165;Rutul;2;r/j/i;d/(j);II;F;female;[Ibragimov 1978: 145-146];ibragimov 1978;
-166;Rutul;3;w/b/d/j/i/u;j/(d/-);III;;anim, inanim;[Ibragimov 1978: 240-241];ibragimov 1978;в борчинско-хиновском все одушевленные существа только в 3 классе
-167;Rutul;4;d/j/i/u;j/(d/-);IV;;inanim, anim;[Ibragimov 1978: 171-172];ibragimov 1978;в мюхрекском в 4 классе строго только вещи, в 3 — животные
+163;Lezgian;NA;NA;NA;NA;NA;NA;[Haspelmath 1993: 6];haspelmath1993;
+164;Rutul;1;r/j/w/u/Ø;d/(j);I;M;male;[Ibragimov 1978: 42-46];ibragimov1978;
+165;Rutul;2;r/j/i;d/(j);II;F;female;[Ibragimov 1978: 145-146];ibragimov1978;
+166;Rutul;3;w/b/d/j/i/u;j/(d/-);III;;anim, inanim;[Ibragimov 1978: 240-241];ibragimov1978;в борчинско-хиновском все одушевленные существа только в 3 классе
+167;Rutul;4;d/j/i/u;j/(d/-);IV;;inanim, anim;[Ibragimov 1978: 171-172];ibragimov1978;в мюхрекском в 4 классе строго только вещи, в 3 — животные
 168;Tabasaran;1;d/r/j;d/r/j;I;;human;[Magometov 1965: 79-93];magometov1965;в северных говорах классы сохранились лучше, на юге хуже (соседство)ю
 169;Tabasaran;2;b/w/f;d/r/j;II;;nonhuman;[Magometov 1965: 79-93];magometov1965;
 170;Tabasaran Northern;1;d/r/j;d/r/j;I;;human;[Magometov 1965: 79-93];magometov1965;
