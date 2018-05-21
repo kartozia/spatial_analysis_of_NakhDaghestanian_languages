@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+### Mapping number of genders
 ``` {r message=FALSE, }
 library(tidyverse)
 library(lingtypology)
@@ -21,17 +22,6 @@ map.feature(languages = df$Language,
             features = df$classes,
             label = paste(df$Language, df$dialect),
             popup = df$EngNames,
-            tile = 'CartoDB.Positron',
-            color = "viridis",
-            width = 3, stroke.radius = 3)
-
-
-map.feature(languages = check$Language,
-            latitude = as.numeric(check$Lat),
-            longitude = as.numeric(check$Lon),
-            features = check$classes,
-            label = paste(check$Language, check$dialect),
-            popup = check$EngNames,
             tile = 'CartoDB.Positron',
             color = "viridis",
             width = 3, stroke.radius = 3)
@@ -57,7 +47,7 @@ moran.mc(sp_df$classes, ww, nsim=99) # Monte Carlo simulation
 ```
 
 
-### Calculating Getis and Ord Gi
+### Calculating and mapping Getis and Ord Gi
 ``` {r}
 localGvalues <- localG(x = as.numeric(sp_df$classes), listw = ww, zero.policy = TRUE)
 localGvalues <- round(localGvalues,3)
