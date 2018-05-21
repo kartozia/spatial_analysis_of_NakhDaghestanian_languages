@@ -1,0 +1,617 @@
+;index;EngNames;Language;Group;Family;glottocode;dialect;classes;source;source_bibtex;Lat;Lon
+0;255;Khaput;Kryz;Lezgic;Nakh-Daghestanian;xapu1238;;4;[Hewitt and Harris 1994: 409];saadiev1994;41.142778;48.194444
+1;15;Alyk;Kryz;Lezgic;Nakh-Daghestanian;alyk1236;аликский;4;[Ihilov 1967: 9-15];ihilov1967;41.1775;48.23694
+2;303;Khynalyg;Khinalugh;Khinalugh;Nakh-Daghestanian;khin1240;;4;[Kibrik 1972: 5];kibrik1972;41.17778;48.12694000000001
+3;60;Budug;Budukh;Lezgic;Nakh-Daghestanian;budu1249;будухский;4;[Ihilov 1967: 9-15];ihilov1967;41.18611;48.36861
+4;116;Dzhek;Kryz;Lezgic;Nakh-Daghestanian;dzhe1238;джекский;4;[Ihilov 1967: 9-15];ihilov1967;41.19694000000001;48.24167
+5;317;Kryz;Kryz;Lezgic;Nakh-Daghestanian;kryt1240;;4;[Ihilov 1967: 9-15];ihilov1967;41.21556;48.24667
+6;133;Fiy;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.289126;47.564416
+7;510;Tekipirkent;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.34201;47.88615
+8;220;Kaladzhukh;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.366176;47.908075
+9;382;Mikrakh;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.37481;47.882489
+10;271;Khnov;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;рутульский;4;[Ihilov 1967: 9-15];ihilov1967;41.378607;47.443605
+11;228;Karakyure;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.417413;47.962618
+12;113;Dzhaba;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.424175;47.775397
+13;581;Usukhchay;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.424736;47.922987
+14;7;Akhty;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.45904;47.746695
+15;270;Khkem;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.4723;47.76363
+16;215;Kaka;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.478513;47.636857
+17;359;Lutkun;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.4844;47.6861
+18;284;Khryug;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.4892;47.6044
+19;616;Zrykh;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.49105;47.564736
+20;393;Mugergan;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.519797;48.175977
+21;304;Kiche;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;мухадский;4;[Ibragimov 1978: 13-15];ibragimov1978;41.53146;47.48171
+22;599;Yalak;Lezgian;Lezgic;Nakh-Daghestanian;akht1238;ахтынский;0;[Ihilov 1967: 9-15];ihilov1967;41.532245;47.605391
+23;449;Rutul;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;рутульский;4;[Ihilov 1967: 9-15];ihilov1967;41.5342;47.4269
+24;308;Kirka;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.5369;48.1894
+25;480;Shtul;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.554702;47.919293
+26;209;Kabir;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.5592;48.0444
+27;165;Gil'yar;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.559978;48.256089
+28;199;Ikra;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.5633;48.0094
+29;324;Kufa;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;мухадский;4;[Ibragimov 1978: 13-15];ibragimov1978;41.564115;47.376937
+30;219;Kala;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;мухадский;4;[Ibragimov 1978: 13-15];ibragimov1978;41.57694;47.35389
+31;334;Kurdul;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.581424;47.177309
+32;272;Khnyukh;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;мухадский;4;[Ibragimov 1978: 13-15];ibragimov1978;41.58289;47.43299
+33;558;Ullugatag;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.6031;48.1256
+34;17;Amsar;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;мухадский;4;[Ibragimov 1978: 13-15];ibragimov1978;41.60348;47.33116
+35;358;Luchek;Rutul;Lezgic;Nakh-Daghestanian;rutu1240;рутульский;4;[Ihilov 1967: 9-15];ihilov1967;41.60988;47.307307
+36;37;Ashar;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.615664;47.663417
+37;307;Kina;Rutul;Lezgic;Nakh-Daghestanian;ixre1238;ихрекский;4;[Ibragimov 1978: 13-15];ibragimov1978;41.6166;47.2647
+38;152;Gel'mets;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.62466;47.17889
+39;381;Mikikh;Tsakhur;Lezgic;Nakh-Daghestanian;miki1243;микихский;4;[Ihilov 1967: 9-15];ihilov1967;41.63753;47.16822
+40;502;Syugut;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.64944000000001;47.11833
+41;526;Tsakhur;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.651115;47.135943
+42;119;Dzhilikhur;Rutul;Lezgic;Nakh-Daghestanian;ixre1238;мюхрексикй;4;[Ibragimov 1978: 13-15];ibragimov1978;41.65545;47.26768
+43;528;Tselyagyun;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.6569;48.2889
+44;151;Gel'khen;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.659002;47.602833
+45;8;Akhvakh-Dere;Akhvakh;Andic;Nakh-Daghestanian;akhv1239;;3;[Magomedbekova 1967: 5-7];magomedbekova1967;41.660912;46.652713
+46;385;Mishlesh;Tsakhur;Lezgic;Nakh-Daghestanian;misl1238;мишлешский;4;[Ihilov 1967: 9-15];ihilov1967;41.6649;47.089775
+47;537;Tsudik;Rutul;Lezgic;Nakh-Daghestanian;ixre1238;мюхрексикй;4;[Ibragimov 1978: 13-15];ibragimov1978;41.66611;47.28056
+48;283;Khpyuk;Aghul;Lezgic;Nakh-Daghestanian;kere1281;керенский;0;[Shaumian 1941: 11-12];shaumian1941;41.66667;47.66667
+49;403;Myukhrek;Rutul;Lezgic;Nakh-Daghestanian;ixre1238;мюхрексикй;4;[Ihilov 1967: 9-15];ihilov1967;41.667696;47.280013
+50;313;Korsh;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.66952;47.06211
+51;121;Dzhinykh;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.67245;47.04479
+52;580;Usug;Lezgian;Lezgic;Nakh-Daghestanian;kere1281;кюринский;0;[Shaumian 1941: 11-12];shaumian1941;41.672481;47.594624
+53;240;Kasumkent;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.6789;48.1394
+54;348;Kvardal;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Magometov 1970: 8];magometov1970;41.6803;47.56277
+55;534;Tsmur;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.6842;48.0567
+56;218;Kal'yal;Tsakhur;Lezgic;Nakh-Daghestanian;tsak1249;;4;[Ihilov 1967: 9-15];ihilov1967;41.684366;47.00366500000001
+57;198;Ikhrek;Rutul;Lezgic;Nakh-Daghestanian;ixre1238;ихрекский;4;[Ihilov 1967: 9-15];ihilov1967;41.693931;47.210005
+58;554;Ukuz;Lezgian;Lezgic;Nakh-Daghestanian;agul1244;;0;[Magometov 1970: 8];magometov1970;41.696017;47.591355
+59;34;Ashaga-Stal;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.69724;48.19462
+60;302;Khveredzh;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Magometov 1970: 8];magometov1970;41.70206;47.57218
+61;158;Gereykhanovskoe;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.7047;48.2869
+62;597;xw;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.7133;48.1094
+63;53;Bedyuk;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Magometov 1970: 8];magometov1970;41.716044;47.52571500000001
+64;13;Alkadar;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.7163;48.08667
+65;460;Sardarkent;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.7255;48.0622
+66;591;Verkhniy Katrukh;Lak;Lak;Nakh-Daghestanian;lakk1252;аральский;4;[Khaidakov 1966: 13];khaidakov1966;41.7468;47.22355
+67;276;Khoredzh;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.74914;47.8667
+68;210;Kabir-Kazmalyar;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.7498;48.48848
+69;269;Khiv;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.7533;47.9286
+70;171;Goa;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Shaumian 1941: 11-12];shaumian1941;41.753585;47.703213
+71;426;Nyutyug;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.75392;48.11773
+72;352;Laka;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.75705;47.88114
+73;435;Richa;Aghul;Lezgic;Nakh-Daghestanian;kere1281;керенский;0;[Shaumian 1941: 11-12];shaumian1941;41.763646;47.502769
+74;109;Duldug;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Shaumian 1941: 11-12];shaumian1941;41.76833;47.67438
+75;615;Zizik;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.7692;48.1097
+76;25;Arakul;Lak;Lak;Nakh-Daghestanian;lakk1252;аральский;4;[Khaidakov 1966: 13];khaidakov1966;41.77377;47.21238
+77;428;Oruzhba;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.775686;48.432854
+78;524;Tpig;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Ihilov 1967: 9-15];ihilov1967;41.780423;47.589523
+79;339;Kusur;Avar;Avar;Nakh-Daghestanian;;кусурский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;41.781293;46.949207
+80;538;Tsuduk;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.78225;47.89671
+81;28;Archug;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.7843;47.86009
+82;297;Khutkhul;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Shaumian 1941: 11-12];shaumian1941;41.78517;47.61451
+83;600;Yargil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.79004000000001;47.95429
+84;132;Fite;Aghul;Lezgic;Nakh-Daghestanian;kosh1245;кошанский;0;[Shaumian 1941: 11-12];shaumian1941;41.79161;47.73998
+85;601;Yarkug;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Shaumian 1941: 11-12];shaumian1941;41.79814;47.68435
+86;378;Mezhgyul';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.8061;48.0075
+87;68;Burkikhan;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Ihilov 1967: 9-15];ihilov1967;41.806356;47.538467
+88;81;Chere;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.80685;48.0425
+89;94;Chuvek;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.807699;47.901711
+90;386;Misi;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Shaumian 1941: 11-12];shaumian1941;41.80991;47.60329
+91;611;Zil'dik;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.81292;47.98958
+92;238;Kartas-Kazmalyar;Lezgian;Lezgic;Nakh-Daghestanian;lezg1248;кюринский;0;[Ihilov 1967: 9-15];ihilov1967;41.81717;48.39484
+93;35;Ashaga-Yarak;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.822988;47.952033
+94;338;Kushtil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.8289;47.8894
+95;333;Kurag;Aghul;Lezgic;Nakh-Daghestanian;agul1244;;0;[Shaumian 1941: 11-12];shaumian1941;41.836764;47.661351
+96;602;Yukhari-Yarak;Tabasaran;Lezgic;Nakh-Daghestanian;lezg1248;;2;[Ihilov 1967: 9-15];ihilov1967;41.83714000000001;47.94825
+97;83;Chirag;Dargwa;Dargwa;Nakh-Daghestanian;chir1284;чирагский ;3;[Gasanova 1971: 38-40];gasanova1971;41.8381;47.4303
+98;489;Sirtich;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.8406;48.2347
+99;413;Nichras;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.84358;48.01174
+100;286;Khudig;Aghul;Lezgic;Nakh-Daghestanian;kosh1245;кошанский;0;[Shaumian 1941: 11-12];shaumian1941;41.85373;47.65854
+101;197;Gyukhryag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.854055;48.172785
+102;549;Turag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.8586;47.9744
+103;291;Khursatil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.862503;47.793991
+104;134;Furdag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.86348;47.86215
+105;32;Arsug;Aghul;Lezgic;Nakh-Daghestanian;kosh1245;кошанский;0;[Shaumian 1941: 11-12];shaumian1941;41.86408;47.65011
+106;567;Urga;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.869933;47.85522
+107;328;Kulig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.874076;47.865347
+108;146;Garig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.8766;47.88498
+109;39;Atrik;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.88042;47.78046
+110;361;Lyakhlya;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.88087;47.87761
+111;90;Chulat;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.880921;48.154399
+112;126;Dzhuli;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.8822;47.85399
+113;343;Kuvig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.88482;47.886538
+114;573;Urtil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.89153;47.89347
+115;484;Sika;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.89173;47.97821
+116;186;Gumi;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.894319;47.868304
+117;69;Burshag;Aghul;Lezgic;Nakh-Daghestanian;kosh1245;кошанский;0;[Shaumian 1941: 11-12];shaumian1941;41.89626;47.64102000000001
+118;65;Burgankent;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.89939;48.06439
+119;3;Afna;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.902075;47.861413
+120;486;Sikukh;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.90457;47.84596
+121;248;Khalag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.90551;47.88935
+122;552;Turuf;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.90569;48.00688
+123;351;Kyuryag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.907094;47.853636
+124;223;Kamilukh;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.90911;46.63101
+125;61;Bukhnag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.910587;47.872994
+126;335;Kurkak;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.91096;47.971699
+127;514;Tinit;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.9131;48.0592
+128;252;Khanak;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.91373;47.86645
+129;104;Dirbakmakhi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;41.914;47.4928
+130;18;Amukh;Dargwa;Dargwa;Nakh-Daghestanian;;амухский;3;[Gasanova 1971: 38-40];gasanova1971;41.9142;47.5422
+131;23;Anklukh;Dargwa;Dargwa;Nakh-Daghestanian;chir1284;чирагский ;3;[Gasanova 1971: 38-40];gasanova1971;41.91667;47.53333
+132;154;Genekolob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.916992;46.600199
+133;583;Vechrik;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.9171;47.96184
+134;194;Guvlig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.91824;47.85213
+135;545;Tsurtil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.918365;47.932001
+136;123;Dzhugdil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.919222;47.979531
+137;147;Gasikh;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.92398;47.8847
+138;131;Firgil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.92507;48.02587
+139;463;Sertil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.92531;47.86522
+140;578;Ushnyug;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.92639000000001;48.00306
+141;342;Kuvag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.926587;47.90245
+142;10;Akka;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.92686;47.9297
+143;96;Dagni;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.931594;47.911846
+144;259;Kharkhni;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.939561;47.880088
+145;157;Gerel';Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.94451;46.551888
+146;170;Gisik;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.94475;47.91451
+147;257;Kharag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.945423;47.825106
+148;31;Arkit;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.947308;48.014025
+149;285;Khuchni;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;41.947717;47.945961
+150;475;Shile;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.94774;47.82939
+151;577;Urzig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.94811;47.84992
+152;54;Betel'da;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.95077;46.54164
+153;360;Lyakhe;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.952293;47.914701
+154;350;Kyurek;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.95258;47.85934
+155;93;Churdaf;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.95272;47.8636
+156;124;Dzhul'dzhag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.95485;47.88933
+157;527;Tsantil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.95508;47.86271
+158;448;Rushul';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.9567;48.01232
+159;559;Uluz;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.95721;47.83714000000001
+160;125;Dzhul'dzhinif;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.957235;47.912939
+161;331;Kunki;Dargwa;Dargwa;Nakh-Daghestanian;kunk1234;кункинский;3;[Koryakov 2006: 33-36];koryakov2006;41.95923;47.47173
+162;327;Kulif;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.95955;47.88391
+163;38;Ashty;Dargwa;Dargwa;Nakh-Daghestanian;kuba1248;кубачинский;3;[Gasanova 1971: 38-40];gasanova1971;41.961098;47.50255900000001
+164;24;Arak;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.96112;47.98984
+165;550;Turaga;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;41.96152;47.80188
+166;603;Yurgulig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.962775;47.896658
+167;192;Gurik;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.962788;47.919474
+168;555;Ul'geb;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.964253;46.523688
+169;287;Khuduts;Dargwa;Dargwa;Nakh-Daghestanian;;амухский;3;[Koryakov 2006: 33-36];koryakov2006;41.96638;47.51297
+170;309;Kirki;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Gasanova 1971: 38-40];gasanova1971;41.96917;47.81333
+171;355;Lidzhe;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.97245;47.98057
+172;430;Pilig;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.97418;47.8687
+173;251;Khanag;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.97444;47.90333
+174;453;Salda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.97497;46.50848
+175;474;Shilansha;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;41.97502;47.78696
+176;443;Rugudzh;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.976755;47.89161
+177;598;Yagdyg;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.98011500000001;47.970578
+178;89;Choroda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, томуринский;3;[Saidova 2008: 23-28];saidova2008;41.98096;46.49696
+179;500;Surkhavkent;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;41.983999;47.827576
+180;290;Khurik;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.98583;47.89861
+181;254;Khapil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.98722;47.97731
+182;483;Shuragat;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;41.99186;47.83994000000001
+183;582;Varsit;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Gasanova 1971: 38-40];gasanova1971;41.992062;47.82111
+184;509;Tatil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;41.99269;47.98826
+185;278;Khosrekh;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;41.9939;47.2706
+186;206;Itsari;Dargwa;Dargwa;Nakh-Daghestanian;itsa1239;санжи-ицарински;3;[Koryakov 2006: 33-36];koryakov2006;41.99733;47.5833
+187;138;Gagar;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;41.999252;46.592744
+188;310;Kirtsik;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.00129;47.84068
+189;296;Khustil';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;42.00335;47.93489
+190;431;Pilyaki;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.00537;47.85667
+191;2;Adaga;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.00972;47.71357
+192;532;Tsimguda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.01269;46.5665
+193;523;Tokhota;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.0178;46.4639
+194;193;Gurkhun';Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Magometov 1965: 24-26];magometov1965;42.0203;47.92712
+195;112;Dyubek;Tabasaran;Lezgic;Nakh-Daghestanian;taba1259;;2;[Ihilov 1967: 9-15];ihilov1967;42.0208;47.969528
+196;497;Sur-Surbachi;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.02667;47.49157
+197;70;Burshi;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.03161;47.06349
+198;458;Saniorta;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.03195;46.44246
+199;110;Duregi;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.03585;47.76541
+200;319;Kubatl';Archi;Lezgic;Nakh-Daghestanian;arch1244;;3;[Chumakina, Brown, Corbett, Quilliam 2008: 1];chumakina2008;42.03659;46.85973
+201;52;Bazhluk;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.040295;47.808314
+202;239;Kassagumakhi;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;нацинский;3;[Gasanova 1971: 38-40];gasanova1971;42.044941;47.371867
+203;495;Sumbatl';Lak;Lak;Nakh-Daghestanian;lakk1252;первоцовкринский;4;[Khaidakov 1966: 102];khaidakov1966;42.04682;47.21919000000001
+204;195;Guzbaya;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.04744;47.51385
+205;445;Ruka;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.04751;47.92312
+206;476;Shilyagi;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.0486;47.7903
+207;144;Garakolob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.048887;46.455015
+208;128;Dzilebki;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.04989000000001;47.55693
+209;115;Dzhavgat;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Gasanova 1971: 38-40];gasanova1971;42.0506;47.9375
+210;12;Alchunib;Archi;Lezgic;Nakh-Daghestanian;arch1244;;3;[Chumakina, Brown, Corbett, Quilliam 2008: 1];chumakina2008;42.05196;46.86943
+211;326;Kulidzha;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.054682;47.772754
+212;440;Rosnob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.055;46.41194
+213;263;Khilikh;Archi;Lezgic;Nakh-Daghestanian;arch1244;;3;[Chumakina, Brown, Corbett, Quilliam 2008: 1];chumakina2008;42.05838;46.88751
+214;535;Tsovkra 1-ya;Lak;Lak;Nakh-Daghestanian;lakk1252;первоцовкринский;4;[Khaidakov 1966: 102];khaidakov1966;42.05917;47.27056
+215;117;Dzhibakhni;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.06051;47.90847
+216;118;Dzhigiya;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.06139;47.79597
+217;107;Duakar;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.064159;47.460081
+218;26;Archib;Archi;Lezgic;Nakh-Daghestanian;arch1244;;3;[Mikailov 1967: 5];mikailov1967;42.0664;46.8678
+219;398;Mukrakari;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.06667;47.5
+220;571;Urkutamakhi 2-aya;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.06667;47.53333
+221;488;Siragi;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.06667;47.56667
+222;19;Amuzgi;Dargwa;Dargwa;Nakh-Daghestanian;kuba1248;кубачинский;3;[Koryakov 2006: 33-36];koryakov2006;42.068009;47.597806
+223;563;Uragi;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.06914;47.569377
+224;387;Mizhigli;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.0697;47.79989000000001
+225;325;Kulegu;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.07003;47.88401
+226;221;Kalib;Archi;Lezgic;Nakh-Daghestanian;arch1244;;3;[Chumakina, Brown, Corbett, Quilliam 2008: 1];chumakina2008;42.07054;46.86002
+227;120;Dzhinabi;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.070864;47.860318
+228;572;Urkutamakhi Pervaya;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.07093;47.52058
+229;182;Gul'dy;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.07113;47.68936
+230;356;Lischa;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.072834;47.740462
+231;414;Nikar;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.0737;46.406903
+232;74;Butri;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;бутринский;3;[Gasanova 1971: 38-40];gasanova1971;42.07426;47.44048
+233;411;Natsi;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;нацинский;3;[Gasanova 1971: 38-40];gasanova1971;42.075335;47.38728
+234;268;Khitab;Archi;Lezgic;Nakh-Daghestanian;arch1244;;3;[Chumakina, Brown, Corbett, Quilliam 2008: 1];chumakina2008;42.07538;46.867234
+235;409;Nakhki;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;нацинский;3;[Gasanova 1971: 38-40];gasanova1971;42.07562;47.39905
+236;241;Kaya;Lak;Lak;Nakh-Daghestanian;lakk1252;каялинско-мащихинский;4;[Khaidakov 1966: 107];khaidakov1966;42.0765;47.20219
+237;498;Surgiya;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.077112;47.717301
+238;546;Tsushar;Lak;Lak;Nakh-Daghestanian;lakk1252;литературный;4;[Khaidakov 1966: 113];khaidakov1966;42.0774;47.14038
+239;48;Barnab;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.07964000000001;46.37894
+240;485;Sikar;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.07966;46.41127
+241;243;Khadagi;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.08067;47.89726
+242;318;Kubachi;Dargwa;Dargwa;Nakh-Daghestanian;kuba1248;кубачинский;3;[Gasanova 1971: 38-40];gasanova1971;42.0856;47.6031
+243;148;Gaziya;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.085935;47.817633
+244;237;Kartalay;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.08709;47.85834000000001
+245;98;Daknisa;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.08758;47.72711
+246;233;Karatsan;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.0886;47.8683
+247;127;Dzhurmachi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Koryakov 2006: 33-36];koryakov2006;42.09049;47.69572
+248;122;Dzhirabachi;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.09091;47.73513
+249;288;Khungiya;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.09321;47.80518
+250;250;Khamar;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.095868;46.383695
+251;341;Kutlab;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.09663;46.32982
+252;406;Nadar;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.09736;46.36025
+253;245;Khadiyal;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Saidova 2008: 23-28];saidova2008;42.0989;46.4653
+254;574;Urtsaki;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;урцакинский;3;[Gasanova 1971: 38-40];gasanova1971;42.09916;47.56236
+255;565;Urari;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;ураринский;3;[Gasanova 1971: 38-40];gasanova1971;42.0997;47.4569
+256;501;Sutbuk;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.1036;47.5403
+257;86;Chitab;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.10412;46.86914
+258;539;Tsugni;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.107276;47.400902
+259;504;Tadiyal;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.11099;46.4823
+260;235;Kardib;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.111443;46.514655
+261;49;Barshamay;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.11176;47.85143
+262;168;Gindib;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, бухнадинский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.11296;46.50397
+263;183;Guladty;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;гуллатинский;3;[Gasanova 1971: 38-40];gasanova1971;42.11523;47.45074
+264;43;Bakni;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;бакнинский;3;[Gasanova 1971: 38-40];gasanova1971;42.11618;47.53095
+265;166;Gilib;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Saidova 2008: 23-28];saidova2008;42.1169;46.7761
+266;525;Trisanchi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.118091;47.70559
+267;202;Iragi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.11889;47.75336
+268;6;Akhmedkent;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.12036;47.81047
+269;102;Dibgalik;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.120363;47.652521
+270;553;Ukal;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.12163;46.34771
+271;364;Madzhalis;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Koryakov 2006: 33-36];koryakov2006;42.1217;47.8333
+272;282;Khoykhi;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.12179;47.18526
+273;230;Karanub;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.12262;46.81777
+274;105;Doronub;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Saidova 2008: 23-28];saidova2008;42.124689;46.809427
+275;522;Tlyadal;Bezhta;Tsezic;Nakh-Daghestanian;tlya1238;тлядальский;5;[Bokarev 1959: 66];bokarev1959;42.125339;46.237247
+276;78;Chanab;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.125345;46.90434000000001
+277;340;Kutikh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский;3;[Saidova 2008: 23-28];saidova2008;42.12587;46.78902
+278;593;Vikhli;Lak;Lak;Nakh-Daghestanian;vixl1238;вихлинский;4;[Khaidakov 1966: 88];khaidakov1966;42.1269;47.2219
+279;111;Dusrakh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.1275;46.8792
+280;261;Khasharkhota;Bezhta;Tsezic;Nakh-Daghestanian;khoc1238;хошал-хотинский;4;[Bokarev 1959: 66];bokarev1959;42.12912;46.142158
+281;95;Chvadab;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.13028;46.87639
+282;384;Mirzita;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;гуллатинский;3;[Gasanova 1971: 38-40];gasanova1971;42.1309;47.47663
+283;316;Kosroda;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.13141;46.85829
+284;456;Sanchi;Dargwa;Dargwa;Nakh-Daghestanian;kajt1238;кайтагский;3;[Gasanova 1971: 38-40];gasanova1971;42.13244;47.82243
+285;617;Zubanchi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.13309;47.70417
+286;321;Kudagu;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.13322;47.73006
+287;55;Bezhta;Bezhta;Tsezic;Nakh-Daghestanian;nucl1322;бежитинский;4;[Bokarev 1959: 66];bokarev1959;42.1339;46.1247
+288;153;Gendukh;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.13476;46.403084
+289;205;Irichi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Koryakov 2006: 33-36];koryakov2006;42.13548;47.79158
+290;196;Gvedysh;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.13591;46.41437
+291;190;Gunzib;Hunzib;Tsezic;Nakh-Daghestanian;hunz1247;гунзибский;5;[Bokarev 1959: 14];bokarev1959;42.137257;46.264448
+292;225;Kani;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.13937;47.18846
+293;610;Zil'bachi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.139973;47.717838
+294;292;Khurshni;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Koryakov 2006: 33-36];koryakov2006;42.14036;47.48966
+295;77;Chakhdikna;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.14116;47.76044
+296;408;Nakhada;Hunzib;Tsezic;Nakh-Daghestanian;hunz1247;гунзибский;5;[Bokarev 1959: 14];bokarev1959;42.14406;46.19143
+297;425;Nukush;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.1492;46.80579
+298;200;Inisha;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.15031;47.20492
+299;529;Tsemer;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Saidova 2008: 23-28];saidova2008;42.15195;46.75296
+300;84;Chishili;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.15228;47.66839
+301;145;Garbutl';Hunzib;Tsezic;Nakh-Daghestanian;hunz1247;гунзибский;5;[Bokarev 1959: 14];bokarev1959;42.153227;46.219098
+302;388;Mogrob;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.15672;46.86521
+303;595;Viraty;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.15675;47.20107
+304;258;Kharbuk;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.158768;47.530832
+305;204;Irib;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.1606;46.8169
+306;569;Urkarakh;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.1606;47.6339
+307;499;Surkhachi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Koryakov 2006: 33-36];koryakov2006;42.16143;47.74083
+308;103;Dibgashi;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.1617;47.6944
+309;82;Childa;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, риссибский;3;[Saidova 2008: 23-28];saidova2008;42.16328;46.34734
+310;203;Iraki;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.16405;47.71739
+311;508;Tanty;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Gasanova 1971: 38-40];gasanova1971;42.1642;47.3167
+312;330;Kumukh;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.1706;47.1175
+313;71;Buskri;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.17359;47.66673
+314;42;Baginub;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.1743;46.88159
+315;267;Khinub;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.17454;46.82406
+316;320;Kuchrab;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.17506;46.90244000000001
+317;156;Genukh;Hinuq;Tsezic;Nakh-Daghestanian;hinu1240;гинухский;5;[Bokarev 1959: 110];bokarev1959;42.1764;45.98646
+318;311;Kischa;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.17677;47.58117
+319;222;Kalkni;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.17732;47.70499
+320;262;Khidib;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.17812;46.36299
+321;551;Turtsi;Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.18409000000001;47.16817
+322;293;Khurukh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.18441;46.85807
+323;446;Rul'dab;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, тлессерухский;3;[Saidova 2008: 23-28];saidova2008;42.18472;46.85028
+324;150;Gebguda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.190026;46.354817
+325;76;Chadakolob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, чадаколобский;3;[Saidova 2008: 23-28];saidova2008;42.19182;46.31981
+326;464;Shadni;Lak;Lak;Nakh-Daghestanian;lakk1252;шаднинский;4;[Khaidakov 1966: 60];khaidakov1966;42.192172;47.648927
+327;306;Kidero;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Bokarev 1959: 175];bokarev1959;42.1931;45.9583
+328;277;Khorta;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.19329000000001;46.35976
+329;87;Chododa;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, чадаколобский;3;[Saidova 2008: 23-28];saidova2008;42.193439;46.314784
+330;482;Shuni;Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.19414;47.17229
+331;365;Magar;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Saidova 2008: 23-28];saidova2008;42.19546;46.843669
+332;608;Zhazhada;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.197157;46.424903
+333;337;Kurla;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.19768;47.18731
+334;373;Mazada;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.197896;46.390092
+335;405;Nachada;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.198508;46.448902
+336;512;Tinchuda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.19861;46.45306
+337;417;Niklida;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.199941;46.406485
+338;56;Bezhuda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.200348;46.479175
+339;441;Rosta;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.20056;46.39667
+340;279;Khotlob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.201243;46.432755
+341;91;Chumli;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.20167;47.77306
+342;377;Meusisha;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.20199;47.59731
+343;557;Ulluchara;Lak;Lak;Nakh-Daghestanian;lakk1252;бартхинский;4;[Khaidakov 1966: 35];khaidakov1966;42.20267;47.27463
+344;487;Sinida;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.20341;46.39071
+345;169;Ginta;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;гапшиминский;3;[Koryakov 2006: 33-36];koryakov2006;42.2042;47.4186
+346;273;Khobokh;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.204624;46.379234
+347;92;Chunib;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Saidova 2008: 23-28];saidova2008;42.20496;46.82498
+348;101;Deybuk;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.20532;47.51996
+349;568;Uri;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.2056;47.0164
+350;594;Vikri;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.20612;47.679702
+351;530;Tseneb;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Saidova 2008: 23-28];saidova2008;42.206684;46.842652
+352;397;Mukar;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.20687;47.02212
+353;507;Tamuda;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.21001;46.382
+354;143;Gapshima;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;гапшиминский;3;[Gasanova 1971: 38-40];gasanova1971;42.2122;47.3261
+355;473;Shidib;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.214353;46.300745
+356;149;Geba;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;гапшиминский;3;[Koryakov 2006: 33-36];koryakov2006;42.21527;47.39266
+357;353;Landa;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.218;46.27432
+358;533;Tsizgari;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.21963;47.64768
+359;57;Bochokh;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.22;46.28472
+360;266;Khintida;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.220547;46.275395
+361;560;Unchukatl';Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.2208;47.1525
+362;256;Kharada;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.222648;46.25852800000001
+363;472;Shapikh;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Bokarev 1959: 175];bokarev1959;42.224044;45.858118
+364;481;Shukty;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;гапшиминский;3;[Gasanova 1971: 38-40];gasanova1971;42.22488;47.30349
+365;185;Gulli;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.22977;47.76214
+366;244;Khadakolob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.231683;46.261819
+367;544;Tsurib;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.235;46.8333
+368;543;Tsurai;Dargwa;Dargwa;Nakh-Daghestanian;muir1238;муиринский;3;[Gasanova 1971: 38-40];gasanova1971;42.23577;47.65819000000001
+369;172;Gochob;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.2375;46.6642
+370;465;Shaitli;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Bokarev 1959: 175];bokarev1959;42.23835;46.05158
+371;62;Bukhty;Avar;Avar;Nakh-Daghestanian;anda1281;бухтинский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.240712;46.985633
+372;575;Urukh-Sota;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.24222;46.67694
+373;314;Kosob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, кособский;3;[Saidova 2008: 23-28];saidova2008;42.242893;46.368239
+374;315;Kosob;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, кособский;3;[Saidova 2008: 23-28];saidova2008;42.242893;46.368239
+375;72;Busutli;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, косовский;3;[Saidova 2008: 23-28];saidova2008;42.24512;46.363326
+376;73;Busutli;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, косовский;3;[Saidova 2008: 23-28];saidova2008;42.24512;46.363326
+377;478;Shitli;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, сугратлинский;3;[Saidova 2008: 23-28];saidova2008;42.24574000000001;47.01268
+378;471;Shangoda;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, бухтинский;3;[Saidova 2008: 23-28];saidova2008;42.246859;47.00015300000001
+379;367;Magitl';Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, кособский;3;[Saidova 2008: 23-28];saidova2008;42.248081;46.366738
+380;466;Shakhuva;Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.25077;47.1617
+381;579;Usisha;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;усишинский;3;[Gasanova 1971: 38-40];gasanova1971;42.2511;47.3928
+382;224;Kanasiragi;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Abdullaev 1954: 6-9];abdullaev1954;42.252582;47.649095
+383;374;Megeb;Dargwa;Dargwa;Nakh-Daghestanian;mege1234;мегебский;4;[Gasanova 1971: 38-40];gasanova1971;42.2528;47.0472
+384;41;Bagikla;Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.25308;47.13393
+385;506;Talukh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, нижнекарахский;3;[Saidova 2008: 23-28];saidova2008;42.25652;46.74433
+386;450;Sachada;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.258411;46.699595
+387;396;Mugurukh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, мукратльский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.26064;46.86533
+388;477;Shinkbalakada;Dargwa;Dargwa;Nakh-Daghestanian;mugi1235;мугинский;3;[Koryakov 2006: 33-36];koryakov2006;42.261375;47.300242
+389;390;Mokok;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Bokarev 1959: 175];bokarev1959;42.2619;45.9008
+390;496;Sumeta;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.262025;46.705541
+391;33;Asakh;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Bokarev 1959: 175];bokarev1959;42.26311;45.81684
+392;162;Gerkhmakhi;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.2634;47.52765
+393;407;Nakazukh;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, сугратлинский;3;[Saidova 2008: 23-28];saidova2008;42.264594;46.914238
+394;163;Gidatli;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, кособский;3;[Saidova 2008: 23-28];saidova2008;42.266327;46.374506
+395;401;Murguk;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.2669;47.6947
+396;395;Mugri;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.26767;47.62872
+397;329;Kuma;Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.27304;47.13762
+398;540;Tsulda;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.27357;46.72095
+399;108;Dubrimakhi;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.274418;47.285133
+400;66;Burgimakhi;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.27489;47.28652
+401;11;Akusha;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Gasanova 1971: 38-40];gasanova1971;42.275664;47.340107
+402;402;Murukh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, нижнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.27719;46.7715
+403;45;Balkhar;Lak;Lak;Nakh-Daghestanian;lakk1252;бартхинский;4;[Khaidakov 1966: 35];khaidakov1966;42.2797;47.2314
+404;189;Gunukh;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, нижнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.28043;46.76307
+405;175;Gontlob;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.280673;46.726468
+406;491;Sogratl';Avar;Avar;Nakh-Daghestanian;anda1281;андальский, сугратлинский;3;[Saidova 2008: 23-28];saidova2008;42.2808;46.9914
+407;336;Kurkli;Lak;Lak;Nakh-Daghestanian;vicx1238;вицхинский;4;[Khaidakov 1966: 110];khaidakov1966;42.2828;47.1283
+408;427;Obokh;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, обохский;3;[Saidova 2008: 23-28];saidova2008;42.28362;47.03734
+409;612;Zil'mukmakhi;Dargwa;Dargwa;Nakh-Daghestanian;gaps1234;гапшиминский;3;[Koryakov 2006: 33-36];koryakov2006;42.28483;47.3958
+410;226;Kara;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;42.28724;47.17093
+411;67;Burgimakmakhi;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Gasanova 1971: 38-40];gasanova1971;42.2897;47.3769
+412;46;Baltamakhi;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Koryakov 2006: 33-36];koryakov2006;42.29843;47.72877
+413;394;Mugi;Dargwa;Dargwa;Nakh-Daghestanian;mugi1235;мугинский;3;[Gasanova 1971: 38-40];gasanova1971;42.2989;47.4225
+414;142;Gamsutl';Avar;Avar;Nakh-Daghestanian;anda1281;андальский, гамсутлинский;3;[Saidova 2008: 23-28];saidova2008;42.301972;46.996315
+415;349;Kversatl';Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, кособский;3;[Saidova 2008: 23-28];saidova2008;42.302562;46.392793
+416;492;Somoda;Avar;Avar;Nakh-Daghestanian;kele1253;келебский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.30272;46.5368
+417;51;Batsada;Avar;Avar;Nakh-Daghestanian;;бацадинский;3;[Saidova 2008: 23-28];saidova2008;42.3036;46.9092
+418;64;Burdeki;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.3047;47.6703
+419;493;Sshulani;Avar;Avar;Nakh-Daghestanian;shul1242;шулани;3;[Saidova 2008: 23-28];saidova2008;42.3067;46.9294
+420;380;Mikdatl';Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, анцросунхадинский;3;[Saidova 2008: 23-28];saidova2008;42.309412;46.380732
+421;570;Urkhuchimakhi;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Gasanova 1971: 38-40];gasanova1971;42.310271;47.260222
+422;588;Verkhnie Mulebki;Dargwa;Dargwa;Nakh-Daghestanian;mugi1235;мугинский;3;[Gasanova 1971: 38-40];gasanova1971;42.31043;47.51924
+423;305;Kichi-Gamri;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.3125;47.7106
+424;370;Mamaaul;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Abdullaev 1954: 6-9];abdullaev1954;42.31709;47.75237
+425;442;Rugel'da;Avar;Avar;Nakh-Daghestanian;kele1253;келебский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.3175;46.5244
+426;88;Chokh;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, чохский;3;[Saidova 2008: 23-28];saidova2008;42.3206;47.0336
+427;566;Urchukh;Avar;Avar;Nakh-Daghestanian;kele1253;келебский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.325548;46.495518
+428;420;Nizhnie Mulebki;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.3281;47.5689
+429;561;Unkida;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, ругуджинский;3;[Saidova 2008: 23-28];saidova2008;42.328698;46.885731
+430;16;Ameterkmakhi;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.33081;47.213539
+431;564;Urakhi;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Abdullaev 1954: 6-9];abdullaev1954;42.3347;47.5953
+432;457;Sangimakhi;Dargwa;Dargwa;Nakh-Daghestanian;;мюрего-губденский;3;[Koryakov 2006: 33-36];koryakov2006;42.33788;47.43307
+433;536;Tsudakhar;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Gasanova 1971: 38-40];gasanova1971;42.3425;47.1606
+434;184;Guladtymakhi;Dargwa;Dargwa;Nakh-Daghestanian;sirz1237;сирхинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.34823;47.23927
+435;159;Gerga;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Gasanova 1971: 38-40];gasanova1971;42.3497;47.9628
+436;275;Khopor;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, ругуджинский;3;[Saidova 2008: 23-28];saidova2008;42.352716;46.937396
+437;299;Khvarshi;Xvarshi;Tsezic;Nakh-Daghestanian;xvar1237;хваршинский;5;[Bokarev 1959: 143];bokarev1959;42.353471;46.10785900000001
+438;236;Karekadani;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Gasanova 1971: 38-40];gasanova1971;42.35747;47.13098
+439;444;Rugudzha;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, ругуджинский;3;[Saidova 2008: 23-28];saidova2008;42.3606;46.9139
+440;322;Kudali;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.3678;47.0789
+441;589;Verkhnie Ubekimakhi;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.36823;47.24298
+442;129;Ebdalaya;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.3683;47.3433
+443;155;Genta;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.37001;46.56099
+444;434;Ravkvatl';Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Saidova 2008: 23-28];saidova2008;42.372455;46.579617
+445;556;Ulluaya;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.3747;47.3756
+446;242;Keger;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, кегерский;3;[Saidova 2008: 23-28];saidova2008;42.3767;47.0275
+447;363;Machada;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.37839;46.53725
+448;410;Naskent;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.38093;47.33624
+449;562;Urada;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Saidova 2008: 23-28];saidova2008;42.3822;46.5617
+450;459;Santlada;Inkhoqwari;Tsezic;Nakh-Daghestanian;inxo1238;инхокаринский;5;[Khalilova 2009: 1];khalilova2009;42.38431;46.07505
+451;187;Gunib;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Saidova 2008: 23-28];saidova2008;42.388232;46.962258
+452;511;Tidib;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.3889;46.5742
+453;452;Sagada;Tsez;Tsezic;Nakh-Daghestanian;saga1261;сагадинский;4;[Bokarev 1959: 175];bokarev1959;42.38941;45.91798
+454;347;Kvantlada;Inkhoqwari;Tsezic;Nakh-Daghestanian;inxo1238;инхокаринский;5;[Khalilova 2009: 1];khalilova2009;42.39204;46.06382
+455;421;Nizhnie Ubekimakhi;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.392787;47.20548
+456;281;Khotoda;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Saidova 2008: 23-28];saidova2008;42.39393;46.559446
+457;216;Kakamakhi;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Abdullaev 1954: 6-9];abdullaev1954;42.62928;47.43518
+458;454;Salta;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.39589;47.07048
+459;294;Khushet;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Bokarev 1959: 175];bokarev1959;42.39721;45.77278
+460;375;Mekegi;Dargwa;Dargwa;Nakh-Daghestanian;;мекегинский;3;[Gasanova 1971: 38-40];gasanova1971;42.3978;47.4625
+461;404;Myurego;Dargwa;Dargwa;Nakh-Daghestanian;;мюрегинский;3;[Gasanova 1971: 38-40];gasanova1971;42.4042;47.6894
+462;280;Khotoch;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, хоточ-хинданский;3;[Saidova 2008: 23-28];saidova2008;42.408408;46.954024
+463;201;Inkhokvari;Inkhoqwari;Tsezic;Nakh-Daghestanian;inxo1238;инхокаринский;5;[Bokarev 1959: 143];bokarev1959;42.410888;46.044877
+464;4;Agada;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, куядинский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.412001;46.841895
+465;301;Khvayni;Inkhoqwari;Tsezic;Nakh-Daghestanian;inxo1238;инхокаринский;5;[Khalilova 2009: 1];khalilova2009;42.415087;45.968736
+466;585;Verkhnee Inkhokvari;Inkhoqwari;Tsezic;Nakh-Daghestanian;inxo1238;инхокаринский;5;[Khalilova 2009: 1];khalilova2009;42.415524;46.065273
+467;461;Sekh;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, куядинский;3;[Saidova 2008: 23-28];saidova2008;42.416094;46.826447
+468;100;Degva;Dargwa;Dargwa;Nakh-Daghestanian;;мекегинский;3;[Gasanova 1971: 38-40];gasanova1971;42.4161;47.5372
+469;614;Ziurib;Avar;Avar;Nakh-Daghestanian;hidd1238;гидский;3;[Saidova 2008: 23-28];saidova2008;42.41789;46.705088
+470;246;Khadzhalmakhi;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Gasanova 1971: 38-40];gasanova1971;42.4186;47.1817
+471;519;Tlogob;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, куядинский;3;[Saidova 2008: 23-28];saidova2008;42.4189;46.8153
+472;40;Ayalakab;Dargwa;Dargwa;Nakh-Daghestanian;;мекегинский;3;[Gasanova 1971: 38-40];gasanova1971;42.4231;47.4625
+473;389;Mokoda;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.42385;46.66963
+474;332;Kuppa;Dargwa;Dargwa;Nakh-Daghestanian;cuda1238;цудахарский;3;[Gasanova 1971: 38-40];gasanova1971;42.4239;47.1231
+475;592;Verkhniy Kolob;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.42614;46.6579
+476;217;Kakhib;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.4272;46.5969
+477;249;Khamakal;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.428109;46.674497
+478;44;Balanub;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, куядинский;3;[Saidova 2008: 23-28];saidova2008;42.4284;46.8251
+479;423;Nizhniy Kolob;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.430087;46.659303
+480;354;Levashi;Dargwa;Dargwa;Nakh-Daghestanian;akus1238;акушинский;3;[Gasanova 1971: 38-40];gasanova1971;42.4325;47.3258
+481;22;Angida;Tindi;Andic;Nakh-Daghestanian;tind1238;;3;[Magomedova 2003: 15];magomedova2003;42.43279;46.1924
+482;176;Goor;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.43339;46.56927
+483;130;Echeda;Tindi;Andic;Nakh-Daghestanian;tind1238;;3;[Magomedova 2003: 15];magomedova2003;42.43436;45.992398
+484;400;Murada;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, куядинский;3;[Saidova 2008: 23-28];saidova2008;42.445422;46.954469
+485;177;Goor-Khindakh;Avar;Avar;Nakh-Daghestanian;kaxi1241;кахибский смешанный говор;3;[Saidova 2008: 23-28];saidova2008;42.449273;46.575312
+486;462;Sergokala;Dargwa;Dargwa;Nakh-Daghestanian;urax1238;урахинский ;3;[Koryakov 2006: 33-36];koryakov2006;42.4494;47.6633
+487;312;Koroda;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.44961;46.846988
+488;513;Tindi;Tindi;Andic;Nakh-Daghestanian;tind1238;;3;[Magomedova 2003: 15];magomedova2003;42.454716;46.13469
+489;300;Khvartikuni;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.4569;47.0067
+490;99;Darada;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.465606;46.936573
+491;548;Tunzi;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.46888;46.97573
+492;298;Khvarada;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.46889;46.99406
+493;136;Gadaychi;Tindi;Andic;Nakh-Daghestanian;tind1238;;3;[Magomedova 2003: 15];magomedova2003;42.470059;46.070951
+494;542;Tsumada-Urukh;Chamalal;Andic;Nakh-Daghestanian;gakv1238;гакваринский;5;[Bokarev 1949: 5-10];bokarev1949;42.474208;46.063467
+495;541;Tsumada;Chamalal;Andic;Nakh-Daghestanian;gakv1238;гакваринский;5;[Bokarev 1949: 5-10];bokarev1949;42.48187;46.05247
+496;605;Zanata;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.485146;46.552771
+497;422;Nizhniy Batlukh;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.4853;46.5239
+498;362;Maali;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташский;3;[Saidova 2008: 23-28];saidova2008;42.4858;46.9197
+499;174;Golotl';Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.485962;46.735698
+500;515;Tissi;Tindi;Andic;Nakh-Daghestanian;tind1238;;3;[Magomedova 2003: 15];magomedova2003;42.48917;46.14395
+501;590;Verkhniy Batlukh;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.496276;46.502217
+502;214;Kadirkent;Dargwa;Dargwa;Nakh-Daghestanian;;мюрего-губденский;3;[Koryakov 2006: 33-36];koryakov2006;42.49661;47.60836
+503;436;Richaganikh;Chamalal;Andic;Nakh-Daghestanian;gakv1238;гакваринский;5;[Bokarev 1949: 5-10];bokarev1949;42.49724000000001;46.05853
+504;505;Tagada;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.497573;46.868389
+505;516;Tissi-Akhitli;Tindi;Andic;Nakh-Daghestanian;tind1238;;3;[Magomedova 2003: 15];magomedova2003;42.501506;46.103923
+506;160;Gergebil';Avar;Avar;Nakh-Daghestanian;;восточный;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.5047;47.0661
+507;357;Lologonitl';Akhvakh;Andic;Nakh-Daghestanian;akhv1239;;3;[Magomedbekova 1967: 5-7];magomedbekova1967;42.51398;46.33093
+508;114;Dzhanga;Dargwa;Dargwa;Nakh-Daghestanian;;мюрего-губденский;3;[Koryakov 2006: 33-36];koryakov2006;42.517038;47.76486
+509;295;Khushtada;Bagvalal;Andic;Nakh-Daghestanian;bagv1239;;3;[Kibrik 2001: 21];kibrik2001;42.517389;46.166126
+510;521;Tlondoda;Bagvalal;Andic;Nakh-Daghestanian;bagv1239;;3;[Kibrik 2001: 21];kibrik2001;42.5247;46.1989
+511;208;Izano;Akhvakh;Andic;Nakh-Daghestanian;akhv1239;;3;[Magomedbekova 1967: 5-7];magomedbekova1967;42.52735;46.40389
+512;419;Nizhnie Gakvari;Chamalal;Andic;Nakh-Daghestanian;gakv1238;гакваринский;5;[Bokarev 1949: 5-10];bokarev1949;42.53602;46.05171
+513;289;Khunzakh;Avar;Avar;Nakh-Daghestanian;kunz1243;хунзахский;0;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.5394;46.705
+514;323;Kudiyabroso;Akhvakh;Andic;Nakh-Daghestanian;akhv1239;;3;[Magomedbekova 1967: 5-7];magomedbekova1967;42.541069;46.377932
+515;5;Agvali;Chamalal;Andic;Nakh-Daghestanian;gakv1238;гакваринский;5;[Bokarev 1949: 5-10];bokarev1949;42.541192;46.121798
+516;587;Verkhnie Gakvari;Chamalal;Andic;Nakh-Daghestanian;gakv1238;гакваринский;5;[Bokarev 1949: 5-10];bokarev1949;42.547874;46.032686
+517;503;Tad-Magitl';Akhvakh;Andic;Nakh-Daghestanian;akhv1239;;3;[Magomedbekova 1967: 5-7];magomedbekova1967;42.550266;46.348953
+518;135;Gachitli;Chamalal;Andic;Nakh-Daghestanian;cham1309;;5;[Bokarev 1949: 5-10];bokarev1949;42.551361;46.08880300000001
+519;345;Kvankero;Akhvakh;Andic;Nakh-Daghestanian;akhv1239;;3;[Magomedbekova 1967: 5-7];magomedbekova1967;42.55244;46.3404
+520;517;Tlibisho;Bagvalal;Andic;Nakh-Daghestanian;bagv1239;;3;[Kibrik 2001: 21];kibrik2001;42.56054;46.30101
+521;344;Kvanada;Bagvalal;Andic;Nakh-Daghestanian;bagv1239;;3;[Kibrik 2001: 21];kibrik2001;42.561478;46.17397
+522;167;Gimerso;Bagvalal;Andic;Nakh-Daghestanian;bagv1239;;3;[Kibrik 2001: 21];kibrik2001;42.561489;46.227545
+523;518;Tlisi;Bagvalal;Andic;Nakh-Daghestanian;tlis1238;тлиссинско-тлибишинский;3;[Kibrik 2001: 21];kibrik2001;42.56209000000001;46.27428
+524;179;Gubden;Dargwa;Dargwa;Nakh-Daghestanian;;губденский ;3;[Gasanova 1971: 38-40];gasanova1971;42.5658;47.5658
+525;137;Gadiri;Chamalal;Andic;Nakh-Daghestanian;cham1309;;5;[Bokarev 1949: 5-10];bokarev1949;42.566265;46.065746
+526;164;Gigatl';Chamalal;Andic;Nakh-Daghestanian;giga1238;гигатлийский;5;[Bokarev 1949: 5-10];bokarev1949;42.58136;46.0964
+527;232;Karata;Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.5942;46.3419
+528;27;Archo;Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.597691;46.305756
+529;490;Siukh;Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.5999;46.54462
+530;20;Anchik (Anchikh);Karata;Andic;Nakh-Daghestanian;anch1238;анчихский;3;[Magomedbekova 1971: 5];magomedbekova1971;42.608098;46.271717
+531;191;Gurbuki;Dargwa;Dargwa;Nakh-Daghestanian;;губденский ;3;[Gasanova 1971: 38-40];gasanova1971;42.611506;47.591942
+532;372;Mashtada;Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.61362;46.314659000000006
+533;432;Rachabulda;Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.617256;46.300014
+534;212;Kachkalyk;Dargwa;Dargwa;Nakh-Daghestanian;kada1294;кадарский ;3;[Koryakov 2006: 33-36];koryakov2006;42.61852;47.33391
+535;229;Karamakhi;Dargwa;Dargwa;Nakh-Daghestanian;kada1294;кадарский;3;[Gasanova 1971: 38-40];gasanova1971;42.618786;47.256653
+536;213;Kadar;Dargwa;Dargwa;Nakh-Daghestanian;kada1294;кадарский;3;[Gasanova 1971: 38-40];gasanova1971;42.6242;47.2903
+537;173;Godoberi;Godoberi;Andic;Nakh-Daghestanian;ghod1238;;3;[Saidova 1973: 6];saidova1973;42.6258;46.1189
+538;80;Chankurbe;Dargwa;Dargwa;Nakh-Daghestanian;kada1294;кадарский;3;[Gasanova 1971: 38-40];gasanova1971;42.630465;47.300216
+539;75;Chabanmakhi;Dargwa;Dargwa;Nakh-Daghestanian;kada1294;кадарский ;3;[Koryakov 2006: 33-36];koryakov2006;42.63784;47.25923
+540;433;Ratsitl';Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.63788;46.33455
+541;418;Nizhnee Inkhelo;Karata;Andic;Nakh-Daghestanian;kara1474;;3;[Magomedbekova 1971: 5];magomedbekova1971;42.64513400000001;46.259367
+542;520;Tlokh;Avar;Avar;Nakh-Daghestanian;ancu1238;анцухский, ташско-чадаколобская;3;[Saidova 2008: 23-28];saidova2008;42.6492;46.4578
+543;30;Arkas;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;42.65194;47.13833
+544;379;Miarso;Botlikh;Andic;Nakh-Daghestanian;botl1242;;3;[Gudava 1962: 251];gudava1962;42.654059;46.175643
+545;346;Kvankhidatli;Andi;Andic;Nakh-Daghestanian;kvan1238;кванхидатльский;3;[Sulejmanov 1957: 7];sulejmanov1957;42.65789;46.271742
+546;59;Botlikh;Botlikh;Andic;Nakh-Daghestanian;botl1242;;3;[Gudava 1962: 251];gudava1962;42.667813;46.221451
+547;609;Zibirkhali;Godoberi;Andic;Nakh-Daghestanian;ghod1238;;3;[Saidova 1973: 6];saidova1973;42.66833;46.07194000000001
+548;399;Muni;Andi;Andic;Nakh-Daghestanian;muni1255;мунинский;2;[Sulejmanov 1957: 7];sulejmanov1957;42.680242;46.308874
+549;469;Shamil'kala;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Saidova 2008: 23-28];saidova2008;42.690407;46.874769
+550;470;Shamil'kala;Avar;Avar;Nakh-Daghestanian;batl1238;батлухский;3;[Saidova 2008: 23-28];saidova2008;42.690407;46.874769
+551;451;Sadoi;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.701835;46.063155
+552;265;Khindoi;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.703677;46.006265
+553;479;Shivor;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.714662;46.256637
+554;447;Rushukha;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.71509;46.28112
+555;79;Chanko;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.717936;46.246417
+556;63;Buni;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.725755;46.034167
+557;437;Rigahoi;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.725755;46.034167
+558;253;Khando;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.72694;46.23361
+559;207;Itum-Kali;Chechen;Nakh;Nakh-Daghestanian;itum1244;итум-калинский;5;[Arsakhanov 1969: 87];arsakhanov1969;42.730833;45.571944
+560;613;Zilo;Andi;Andic;Nakh-Daghestanian;zilo1238;зиловский;5;[Sulejmanov 1957: 7];sulejmanov1957;42.731394;46.319223
+561;161;Gergentala;Avar;Avar;Nakh-Daghestanian;zaka1239;закатальский, чарский;3;[Saidova 2007: 17];saidova2007;42.73225;47.05913
+562;547;Tundukh;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.734574;46.04
+563;531;Tsibilta;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.74322;46.24311
+564;368;Makazhoi;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.749168;46.064999
+565;274;Khoi;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.750984;46.127223
+566;376;Meshi;Chechen;Nakh;Nakh-Daghestanian;melk1240;мелхинский;5;[Arsakhanov 1969: 138];arsakhanov1969;42.752222;45.178611
+567;371;Manasaul;Avar;Avar;Nakh-Daghestanian;anda1281;андальский, салтинский;3;[Saidova 2008: 23-28];saidova2008;42.7575;47.0397
+568;36;Ashali;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.76963;46.30878
+569;429;Oshni;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.770556;45.37833300000001
+570;97;Dai;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.771944;45.854722
+571;58;Bosoi;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.776391;45.902043
+572;438;Rikvani;Andi;Andic;Nakh-Daghestanian;rikv1238;рикванинский;5;[Sulejmanov 1957: 7];sulejmanov1957;42.782304;46.319372
+573;1;Achaloy;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;42.784786;45.971356
+574;21;Andi;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.7856;46.2639
+575;188;Gunkha;Andi;Andic;Nakh-Daghestanian;andi1255;;5;[Sulejmanov 1957: 7];sulejmanov1957;42.78968;46.28275
+576;180;Guchum-Kali;Chechen;Nakh;Nakh-Daghestanian;itum1244;итум-калинский;5;[Arsakhanov 1969: 87];arsakhanov1969;42.796944;45.63
+577;139;Gagatli;Andi;Andic;Nakh-Daghestanian;gaga1250;гагатлинский;5;[Sulejmanov 1957: 7];sulejmanov1957;42.800361;46.292645
+578;415;Nikaroi;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.822218;45.366323
+579;416;Nikhaloi;Chechen;Nakh;Nakh-Daghestanian;itum1244;итум-калинский;5;[Arsakhanov 1969: 87];arsakhanov1969;42.84027800000001;45.662778
+580;607;Zengali;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.845833;45.272222
+582;264;Khiloi;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.862804;45.41693
+583;247;Khaibakh;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.877222;45.357778
+584;140;Galanchozh;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.883333;45.3
+585;392;Motsaroi;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.889705;45.370211
+586;424;Novyy Khushet;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Van den Berg 1995: 5-7];berg1995;42.900261;47.561244
+587;606;Zarkha;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;42.940751;45.42166
+588;584;Vedeno;Chechen;Nakh;Nakh-Daghestanian;plos1238;плоскостный;5;[Arsakhanov 1969: 148];arsakhanov1969;42.956944;46.110278
+589;85;Chishki;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.010278;45.705833
+590;106;DTS Chishki;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.019082;45.71085
+591;439;Roshni-Chu;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 97];arsakhanov1969;43.088889;45.4575
+592;467;Shalazhi;Chechen;Nakh;Nakh-Daghestanian;;галанчожский;5;[Arsakhanov 1969: 115];arsakhanov1969;43.092778;45.359722
+593;576;Urus-Martan;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.129167;45.541667
+594;468;Shali;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.14;45.903889
+595;47;Bamut;Chechen;Nakh;Nakh-Daghestanian;melk1240;мелхинский;5;[Arsakhanov 1969: 138];arsakhanov1969;43.1575;45.199722
+596;366;Magas;Ingush;Nakh;Nakh-Daghestanian;;;5;;перепись;43.166667;44.816667
+597;141;Gamiyakh;Lak;Lak;Nakh-Daghestanian;lakk1252;;4;[Khaidakov 1966: 113];khaidakov1966;43.2075;46.4886
+598;412;Nazran;Ingush;Nakh;Nakh-Daghestanian;;;5;;перепись;43.216667;44.766667
+599;14;Alkhan-Yurt;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;43.230833;45.565556
+600;260;Khasavyurt;Chechen;Nakh;Nakh-Daghestanian;;аккинский;5;[Arsakhanov 1969: 16];arsakhanov1969;43.246769;46.58939
+601;604;Zakan-Yurt;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;43.263611;45.419167
+602;455;Samashki;Chechen;Nakh;Nakh-Daghestanian;;чеберлоевский;5;[Arsakhanov 1969: 37];arsakhanov1969;43.292222;45.303889
+603;29;Argun;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.294444;45.883889
+604;227;Karabulak;Ingush;Nakh;Nakh-Daghestanian;;;5;;перепись;43.3;44.9
+605;178;Grozniy;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.316667;45.7
+606;586;Verkhnie Achaluki;Ingush;Nakh;Nakh-Daghestanian;;;5;;перепись;43.345475;44.70157
+607;181;Gudermes;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.35527800000001;46.099167
+608;391;Moksob;Avar;Avar;Nakh-Daghestanian;kara1473;карахский, верхнекарахский;3;[Alekseev, Ataev 1997: 22-26];alekseevataev1997;43.434004;46.48603
+609;50;Barthoj;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.453913;45.230875
+610;494;Sulevkent;Dargwa;Dargwa;Nakh-Daghestanian;kuba1248;кубачинский;3;[Gasanova 1971: 38-40];gasanova1971;43.470028000000006;46.754764
+611;369;Malgobek;Ingush;Nakh;Nakh-Daghestanian;;;5;;перепись;43.516667;44.583333
+612;383;Mineralniy;Chechen;Nakh;Nakh-Daghestanian;;;5;;перепись;43.545966;45.326088
+613;234;Karatyube;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Van den Berg 1995: 5-7];berg1995;43.66738;46.82335
+614;231;Karaozek (Karauzek);Bezhta;Tsezic;Nakh-Daghestanian;nucl1322;бежитинский;4;[Van den Berg 1995: 5-7];berg1995;43.68663;46.66615
+615;211;Kachalay;Bezhta;Tsezic;Nakh-Daghestanian;nucl1322;бежитинский;4;[Van den Berg 1995: 5-7];berg1995;43.70198;46.70946
+616;596;Vyshetalovka;Tsez;Tsezic;Nakh-Daghestanian;dido1241;цезский;4;[Van den Berg 1995: 5-7];berg1995;44.042518;46.725504
